@@ -1,0 +1,34 @@
+{
+    "themes": [
+        "machine learning", "remote sensing", "wildfire prediction", "sensor networks", 
+        "reinforcement learning", "drones", "sensor deployment", "burn probability", 
+        "environmental monitoring", "wildland urban interface", "IoT", "real-time monitoring", 
+        "autonomous navigation", "path planning", "multi-agent systems", "optimization", 
+        "data fusion", "simulation", "fire probability simulation", "federated learning", 
+        "drone swarm", "edge computing", "geospatial analysis", "genetic algorithms", 
+        "dynamic grid", "greedy algorithm", "wildfire suppression", "multi-objective optimization",
+        "fire modeling", "wildfire risk", "UAV", "unmanned aerial vehicle", "grid management", 
+        "power grid", "energy infrastructure", "electrical grid", "grid stability", "smart grid", 
+        "load balancing", "renewable energy"
+    ],
+    "datasets": ["ERA5", "MODIS", "ECMWF", "GFS", "NCEP/NCAR", "GOES", "TRMM"],
+    "regions": ["Global", "Canada", "USA", "Europe", "Africa", "Asia", "South America", "Australia", "Antarctica", "Arctic"],
+    "dataset_variations": ["data ?sets?", "data ?set", "datasets?", "dataset"],
+    "detection_variations": ["detection", "detect", "identified", "recognize", "spot", "discover"],
+    "prevention_variations": ["prevention", "prevent", "mitigation", "avert", "avoidance", "reduce risk"],
+    "prediction_variations": ["prediction", "predict", "forecast", "anticipate", "expect", "prognosis"],
+    "management_variations": ["management", "long-term management", "recovery", "sustainability", "fire control"],
+    "vegetation_variations": ["vegetation", "fuel load", "fuel moisture", "biomass", "canopy", "forest structure", "brush"],
+    "elevation_variations": ["elevation", "topography", "slope", "aspect", "terrain", "altitude", "mountainous"],
+    "pde_categories": [
+        "problem formulation", "physical phenomena", "objective function", "boundary conditions",
+        "initial conditions", "constraint definition", "risk metric", "data relationships",
+        "environmental interactions", "uncertainty representation", "temporal dynamics", "spatial modeling"
+    ],
+    "sde_categories": [
+        "method implementation", "predictive model", "optimization technique", "validation framework",
+        "simulation model", "statistical analysis", "machine learning model", "data assimilation",
+        "resource allocation model", "control system", "cost-effectiveness analysis", "risk assessment",
+        "decision support system", "hybrid model", "adaptive algorithm"
+    ]
+}
