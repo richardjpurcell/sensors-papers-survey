@@ -70,5 +70,10 @@
         "system design", "real-time systems", "dynamic grid algorithms", 
         "low-power sensors", "UAV-based deployment", "sensor fault tolerance", 
         "machine learning models for fire detection", "edge computing solutions"
-    ]
+    ],
+    "sensor_categories": [
+            "sensor equations", "sensor definitions", "data input", 
+            "physical parameters", "sensor accuracy", "sensor placement",
+            "calibration techniques", "signal processing"
+        ]  
 }

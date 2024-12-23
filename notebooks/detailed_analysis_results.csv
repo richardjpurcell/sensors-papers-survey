@@ -1,0 +1,910 @@
+file,category,pde_subcategories,sde_subcategories,sensor_subcategories,equation_excerpts
+An_Early_Forest_Fire_Detection_System_Based_on_DJI_M300_Drone_and_H20T_Camera.pdf,Neither,None,None,None,None
+WF15090.pdf,Neither,None,None,None,None
+Research_and_implementation_of_forest_fire_early_warning_system_based_on_UWB_wireless_sensor_networks.pdf,SDE-only,None,control system,signal processing,None
+Forest_Fire_Detection_Using_nRF24L01_Wireless_Sensor_Network_And_Prediction_by_Machine_Learning_Model (1).pdf,SDE-only,None,machine learning model,None,None
+Placing_Multiple_Sinks_in_Time-Sensitive_Wireless_Sensor_Networks_using_a_Genetic_Algorithm.pdf,PDE-only,objective function,None,None,"with
+d =f, i
+τ=g, p= p, i i
+i=1, s= s, j j
+j=1, i
+i=1
+where
+n"
+1-s2.0-S0168192317302903-main.pdf,Neither,None,None,None,None
+Gossip_routing_protocol_for_forest_fire_detection_using_wireless_sensor_networks.pdf,PDE-only,boundary conditions,None,None,"U
+There comes a point of time when the throughput abruptly LISTEN DataRec=true REC_DATA
+falls to zero, Msg_ID=NID"
+Forest_Fire_Detection_and_Guiding_Animals_to_a_Safe_Area_by_Using_Sensor_Networks_and_Sound (1).pdf,Neither,None,None,None,None
+An_insight_to_forest_fire_detection_techniques_using_wireless_sensor_networks.pdf,SDE-only,None,optimization technique,None,None
+Adaptive_MAC_protocols_for_forest_fire_detection_using_Wireless_Sensor_Networks.pdf,Neither,None,None,None,None
+A_Preliminary_Prototype_of_LoRa-Based_Wireless_Sensor_Network_for_Forest_Fire_Monitoring.pdf,Sensors,None,None,signal processing,None
+Robot-based_forest_fire_detection_and_extinguishing_model.pdf,SDE-only,None,control system,None,None
+IoT_based_Forest_Fire_Prediction_Framework.pdf,Neither,None,None,None,None
+3630590.3630602.pdf,Neither,None,None,None,None
+WF11168.pdf,Neither,None,None,None,None
+Low-Power_Distributed_Sensor_Network_for_Wildfire_Detection.pdf,Sensors,None,None,signal processing,None
+Survivability_in_Wireless_Sensor_Networks.pdf,Neither,None,None,None,None
+Wildfire_Detection_and_Avoidance_of_false_Alarm_Using_Densenet.pdf,SDE-only,None,statistical analysis,None,None
+Integrated_Wireless_Sensor_Network_and_Machine_Learning_Algorithm_Based_Forest_Fire_Detection_System.pdf,SDE-only,None,machine learning model,None,None
+2D_coverage_analysis_of_sensor_networks_with_random_node_deployment.pdf,Sensors,None,None,signal processing,None
+Forest_Fire_Detection_and_Prediction__Survey.pdf,SDE-only,None,"predictive model, risk assessment",None,None
+1-s2.0-S0198971512000300-main.pdf,Neither,None,None,None,None
+Early_Forest_Fire_Prediction_System_Using_Wireless_Sensor_Network (1).pdf,Neither,None,None,None,None
+The_Deterministic_Sensor_Deployment_Problem_for_Barrier_Coverage_in_WSNs_With_Irregular_Shape_Areas.pdf,PDE-only,"problem formulation, objective function",None,None,"upbound=Len c, s j =1, s =2, The stationary point that
+sensor and terminator sensor of the barrier are respectively
+occurs at x = 0 is an inflection point, y p = B A x, p =GetStart, p =GetTerminal, TurningSet =GetInflection, ConvexPolygon=ConvexHull, SideSet=SideFind, p intersect= GetIntersect, p l_start = GetStart, p l_terminal= GetTerminal, p l_turning= FindTurning, start = p l_start, terminal = p l_turning, start = p, terminal = p l_terminal, SideSet = SideSet, Because l = 150, we create one straight line selected from the area left of the linear equation x = 150, untilthestraightline the linear equation x = 150, the point selected on the right of x = 150 causes the
+intersectionwith the entryside or the exitside, ld=W, le=L, SIMULATIONPARAMETERS rier in varied boundaries of the irregular shape areas with
+l = 66, 67 units of distance and l = L, given L =
+200 units of distance and W, = 200 units of distance, 112 and 92 units of
+l d =W, Given L = 500 units of distance and
+as l e, = L, when the boundary W = 200 units of distance, ld=W, le=L, ld=W, le=2L, ld=W, le=L, given L = of the barriers planned by ECL, CSD and the proposed
+200 units of distance and W = 200 units of distance, given L = 200 units of distance, l = L, l = 2L, This also supports our observations
+e e
+and W = 200 units of distance, the Euclidean distance of the
+when given the length of the barrier l = L, 2 and l = entry side is fixed at l, = L, we can obtain the side is set to l = W, ld=W, le=L, 13 are fixed at l = L, given L = 200 units of distance with a probabilistic sensing model in irregular shape areas, and W = 200 units of distance, when l = W"
+Self-organizing_routing_protocol_to_achieve_QoS_in_wireless_sensor_network_for_forest_fire_monitoring.pdf,Neither,None,None,None,None
+Advanced_Forest_Fire_Alert_System_with_Real-time_GPS_Location_Tracking.pdf,Neither,None,None,None,None
+IoT_Enabled_Forest_Fire_Detection_and_Early_Warning_System (1).pdf,Neither,None,None,None,None
+Integrating_Forest_Fire_Detection_with_Wireless_Sensor_Network_Based_on_Long_Range_Radio.pdf,Neither,None,None,None,None
+Adaptive_Weighted_Fusion_Algorithm_for_Monitoring_System_of_Forest_Fire_Based_on_Wireless_Sensor_Networks.pdf,SDE-only,None,statistical analysis,None,None
+Wireless_Sensor_Network_Framework_for_Early_Detection_and_Warning_of_Forest_Fire (1).pdf,Neither,None,None,None,None
+3419249.3421239.pdf,Neither,None,None,None,None
+1-s2.0-S0301479720303832-main.pdf,SDE-only,None,risk assessment,None,None
+IoT_Enabled_Forest_Fire_Detection_and_Early_Warning_System.pdf,Neither,None,None,None,None
+2964284.2976761.pdf,Neither,None,None,None,None
+Forest_Wild_Fire_Detection_using_Deep_Learning_Approach.pdf,SDE-only,None,machine learning model,None,None
+Forest_Fire_Detection_using_LoRa_Wireless_Mesh_Topology (1).pdf,Neither,None,None,None,None
+Communication_Perspective_of_Wildfire_Detection_and_Suppression_A_Survey_of_Technologies_Requirements_and_Future_Directions.pdf,Neither,None,None,None,None
+Design_and_Development_of_Forest_Fire_Monitoring_Terminal.pdf,Sensors,None,None,signal processing,None
+Artificial_neural_network-based_forest_fire_detection_system_using_wireless_sensor_network.pdf,Neither,None,None,None,None
+LPWA_Based_Module_for_Forest_Fire_Detection.pdf,Neither,None,None,None,None
+Monitoring_system_for_forest_fire_based_on_wireless_sensor_network.pdf,Sensors,None,None,signal processing,None
+Forest_fire_monitoring_and_detection_of_faulty_nodes_using_wireless_sensor_network.pdf,Neither,None,None,None,None
+Wireless_Sensor_Networks_for_Early_Detection_of_Forest_Fires.pdf,Neither,None,None,None,None
+Wireless_Sensor_Network_for_Wildfire_Detection_and_Notification_via_Walkie__Talkie_Network (1).pdf,Neither,None,None,None,None
+Wireless_Sensor_Routing_Protocol_Research_Based_on_Forest_Fire_Protection.pdf,Neither,None,None,None,None
+Forest_Fire_Detection_and_Warning_System_for_Disaster_Prevention.pdf,SDE-only,None,control system,None,None
+s11235-009-9191-8.pdf,Neither,None,None,None,None
+WF14016.pdf,PDE-only,boundary conditions,None,None,$50 CA$
+Development_and_In-situ_Teaching_of_Disaster-resistant_Monitoring_System_on_Slopeland_with_Micro-weather_Stations_and_Microcontrollers.pdf,SDE-only,None,control system,None,None
+Emerging_Methods_for_Early_Detection_of_Forest_Fires_Using_Unmanned_Aerial_Vehicles_and_Lorawan_Sensor_Networks.pdf,Neither,None,None,None,None
+Forest_Fire_Detection_in_Wireless_Sensor_Network_Using_Fuzzy_Logic.pdf,SDE-only,None,control system,None,None
+Reliability_analysis_of_Wireless_Sensor_Networks_for_forest_fire_detection.pdf,Neither,None,None,None,None
+3607947.3607994.pdf,Neither,None,None,None,None
+WF07137.pdf,Neither,None,None,None,None
+A_Proposed_Methodology_to_detect_Forest_Fire.pdf,Neither,None,None,None,None
+Wireless_infrastructure_for_remote_environmental_monitoring_Deployment_and_evaluation.pdf,Neither,None,None,None,None
+IoT_and_Image_Processing_based_Forest_Monitoring_and_Counteracting_System.pdf,Neither,None,None,None,None
+FPGA_implementation_of_artificial_Neural_Network_for_forest_fire_detection_in_wireless_Sensor_Network.pdf,Neither,None,None,None,None
+Computational_intelligence_applied_to_wildfire_prediction_using_wireless_sensor_networks (1).pdf,Neither,None,None,None,None
+System_based_on_sensor_networks_for_application_in_forest_fire_prevention.pdf,Neither,None,None,None,None
+Wireless_Sensor_Systems_for_Space_and_Extreme_Environments_A_Review.pdf,Neither,None,None,None,None
+Real-time_Forest_Fire_Detection_and_Alert_System_Using_Wireless_Sensor_Networks_and_Solar_Energy (1).pdf,Neither,None,None,None,None
+Dynamic_and_Energy_Efficient_Data_Traffic_Scheduling_for_Earlier_Forest_Fire_Detection_using_WSN.pdf,Neither,None,None,None,None
+Development_of_Survival_Path_Routing_Protocol_for_Scalable_Wireless_Sensor_Networks.pdf,Neither,None,None,None,None
+Optimal_fireline_generation_for_wildfire_fighting_in_uncertain_and_heterogeneous_environment.pdf,SDE-only,None,"optimization technique, risk assessment, decision support system",None,None
+3576842.3589180.pdf,Neither,None,None,None,None
+Creation_of_an_FPGA-WSN-based_Forest_Fire_Alert_System_using_Data-Driven_Attribute_Relationship_Determination.pdf,Neither,None,None,None,None
+A_Guide_Towards_Implementing_an_Effective_Forest_Fire_Detection_System_Key_Factors_and_Research_Gaps (1).pdf,Neither,None,None,None,None
+A_Survey_of_Multi-Objective_Optimization_in_Wireless_Sensor_Networks_Metrics_Algorithms_and_Open_Problems.pdf,Both PDE and SDE,objective function,decision support system,signal processing,"which is divided into G = xy rectangular
+isnormallydefinedwithrespecttothesensingrangeofasen, T =minT, y
+f
+con
+= 1, where j=1, i=1
+portional both to the average rate of its own information
+where R ci, i i i i
+i=0
+tivity hinges on the ratio of the communication range to
+the sensing range, η = 2 i, usi = T q, logx α =1, When we have α = 1, pt =of, rof 0ra at ne ds ζ =1, x= i, ert ehe ca =gg, tio Sn reb pe rt ew se ee nn tst th he er ca un rd ro em
+nt
+ow
+is
+ti ht
+a
+eh rwe ma iac sth erixe Al ie mtm
+ha
+=e tn 0t
+s, aA te= m, b =le
+Authorized licensed use limited to, i=1, j=1, m=2, A =1, arnumber=7322190 vey of congestion control protocols in wireless sensor networks, arnumber=7123559 Feb, arnumber=7303936
+coverage and end"
+Multi-AI_Based_Wireless_Sensor_Node_for_Forest_Fire_Detection.pdf,Neither,None,None,None,None
+Developing_an_efficient_framework_for_real_time_monitoring_of_forest_fire_using_wireless_sensor_network (1).pdf,Sensors,None,None,physical parameters,None
+mass-ghs07.pdf,Sensors,None,None,sensor accuracy,None
+Current_Status_of_Micro_Nanosensors_and_Their_Potential_Applicability_to_the_Prevention_and_Early_Detection_of_Forest_Fires.pdf,SDE-only,None,risk assessment,None,None
+An_insight_to_forest_fire_detection_techniques_using_wireless_sensor_networks (1).pdf,SDE-only,None,optimization technique,None,None
+1410077.1410097.pdf,Neither,None,None,None,None
+1287767.1287785.pdf,Neither,None,None,None,None
+3611314.3616067.pdf,Neither,None,None,None,None
+IoTFog_Enabled_Framework_for_Forest_Fire_Management_System.pdf,SDE-only,None,"statistical analysis, risk assessment",None,None
+Proposition_of_low-cost_wireless_sensor_network_for_real-time_monitoring_and_early_wildfire_detection_in_Lebanons_forests.pdf,SDE-only,None,statistical analysis,None,None
+Spectral_analysis_of_forest_fire_noise_for_early_detection_using_wireless_sensor_networks.pdf,SDE-only,None,decision support system,None,None
+Wireless_communication-based_smoke_detection_system_design_for_forest_fire_monitoring.pdf,Neither,None,None,None,None
+Forest_Fire_Monitoring_using_Internet_of_Things_and_Machine_Learning.pdf,Neither,None,None,None,None
+A_Guide_Towards_Implementing_an_Effective_Forest_Fire_Detection_System_Key_Factors_and_Research_Gaps.pdf,Neither,None,None,None,None
+Forest_Fire_Detection_Using_nRF24L01_Wireless_Sensor_Network_And_Prediction_by_Machine_Learning_Model.pdf,SDE-only,None,machine learning model,None,None
+Computational_intelligence_applied_to_wildfire_prediction_using_wireless_sensor_networks.pdf,Neither,None,None,None,None
+Power_Consumption_Efficient_Routing_Protocol_for_Forest_Fire_Detection_based_on_Mobile_Sensor_Networks.pdf,Neither,None,None,None,None
+978-3-030-44685-7.pdf,Both PDE and SDE,objective function,"statistical analysis, control system, risk assessment",None,"C=cause, E=effect, i=nRTT
+F, = i, PSY=1, β =4, 4Nodesselectedtohostacontentreplicaforβ=4replicas
+5Nodesselectedtohostacontentreplicaforβ, 5replicas
+6Nodesselectedtohostacontentreplicaforβ=6replicas, whileβ =4hassome2 FunctionalMetricstoEvaluateNetworkVulnerability, β =5, β =4, s when compared to β =5, ρ =0, ρ =0, ofthenodesforρ =0butisused
+by up to 42, ρ =0, ρ =9, oftheusersforρ =0, ATTR=0, n =26and
+nodes are labelled from 1 to 26, 2 AsetofcriticalnodesforC =5in, ering w =1 for all node pairs, 2 presents a set of critical nodes for
+ij
+C =5, ij ij
+i=1 j, n
+v =C, i
+i=1
+Thenextsetofconstraintsguarantee thattheendnodes ofeach link, v =0, v =0 and constraint, i j
+guaranteesthatu =1, v =0, u =1, u =1, u =1 since
+ik kj ij
+nodes i and j are also connected, i =1, i =1, d = 2, i =1, i =1, v =0, u =1sincenodesi
+k, networkexamplewithunitaryweights
+whoseoptimalsetofC =5criticalnodeswasshowninFig, basedheuristicsforC =5
+the critical nodes computed by the degree centrality, 4 Criticalnodescomputedbytheclosenessandbetweennesscentralitysequentialheuristics
+forC =5
+numberofconnectednodepairsis, 5presentsasetofcriticallinksfor
+C =5, ij ij
+i=1 j, 5 AsetofcriticallinksforC =5in, v =C, v =0 and constraints, guarantee
+ij
+that u =1, 1 i =1, u =1, u =1, u =1sincenodesi and j arealsoconnected, i =1, v =0, u =1sincenodesi and j
+k, i =1, 2=5since, k =min, k =w ik ifd ik, k =w jk, networkexamplewithunitary
+weightswhoseoptimalsetofC =5criticallinkswasshowninFig, andforC =5, 6 CriticallinksetscomputedbytwoofthealternativeheuristicsforC =5
+3, w =1, ij i=1 j, w =w, then S iscalledtheregionalSRLG
+thatrepresents D andisdenotedby S =SRLG, andlet p =Pr, S =SRLG, a probability p for each disaster in D and a link set S =
+D, They can be calculated as
+p S = D, and p i = p1
+S
+D, p=1 homog, stagePSRLG
+CFP FP
+pi=p
+FP, stagePSRLGwithp=1, stagePSRLGwith
+pi = p, h
+M h=1iscontainingthesetoflinksincidenttov, letuslistthesingle
+link failures in M h=0, M h=2k, M h=2k
+containstheedgesofatreeofshortestpathstoefromthenodesnotfurtherfromu
+orvthank hops, M h=2k, M h=2k, h
+thisaverageis1forh =0andisequalfortheaveragenodaldegreeforh, =1, w3 ithIll kus =tra 2t, 2nfork =0andk, =1, andr =1, foundthatthesphericalcounterpartofM denoted
+r
+MsandMp = M canbedifferenteveninthecaseofanetworkhavingageographical
+r r r
+extensionof100km, Radiusr =8wassettobeabitlargerthanthehalfofthediameter
+of the current network, r =0 was setto be asmallradius, wherer=8equalsthehalfofthenetworkdiameter, MgbeingMsorMp = M, 0H rg = M rg, p =1, S =s, 00986=0, j = p, Thisgraphhas N =4nodesand
+L, =5links, The element of the adjacency matrix a =1 only if the pair of nodes i and k are
+ik
+connected by a direct link, otherwise a =0, theelement
+in the first row and second column of the adjacency matrix is a =1, whereastheelementinthefirstrowandfourth
+columnisa =0asthereisnodirectlinkbetweennodes1and4, c =0
+ik
+if the pair of nodes i and k are not connected by a direct link, 2 Adjacencymatrix
+1 2 0 1 1 0
+Aofanexamplegraph
+consistingof4nodes 1 0 1 0
+A=
+connectedby4links 1 1 0 1
+0 0 1 0
+3 4
+Fig, 3 Weighted 1
+1 2 0 1 2 0
+adjacencymatrixCofan
+examplegraphwhoselinks 1 0 3 0
+havecostsassociatedwith 2 3 C= 2 3 0 2
+thelinks
+0 0 2 0
+3 4
+2
+5, N LaplacianmatrixQisdefinedas
+Q=Δ, N diagonaldegreematrixandthedegreeofnodei
+is d = N a, k=1 ik ij ij
+q, = N a, Qu=0
+ii k, 1 ik
+anduTQ=0T, These eigenvalues are denoted as μ i where μ N =0, the eigenvalues are μ =0, μ =1, 4 3
+μ =3, μ =4, 1 0
+Q=
+connectedby4links, 1=24differentwaysto
+sequentiallyremoveallnodes, N
+d = a, i ij
+j=1
+A large degree centrality can indicate a node with high importance for network
+operation, N
+1
+x = a x, i λ ik k
+1 k=1
+The eigenvector centrality score of a node depends on the number of its direct
+neighbouringnodes, R =α rLCC, R =0, whereasavalue R =1correspondstoanoptimallyrobustnetwork, consistingof N =40nodesand
+L, =61links, 13wecandeducethatinordertodecrease
+ATTRbelow f =0, thisrobustnessindicatoryieldsATTR =0, 33 metro networks from different countries and in different
+sizesvaryingfromN =5toN, =83areusedintheanalyses, Thesizesoftheunderlying
+graphs vary from N =24 to N, =3120, 3The
+sizes of the underlying graphs vary from N =11 to N, =754, ε σ = k, whichconsistsofN =40nodesandL, =61links, is activated by the time
+t is p=F, dx =em, i est i
+k
+i=1
+andcoefficientofdetermination, 2
+R2 =1, 2
+i=1 i
+wherem, k
+1
+m= m, i
+k
+i=1
+Inthefollowingsection, Itcanbeseenthatforx =3months, t =11months, t =t, 3h
+P =π, P =π, 3 NSFNetnetworktopologyandCNDoptimalsolutionforc=4, 3showsthe
+NSFNettopologywiththeoptimalCNDsolutionforc=4criticalnodes, 4apresentsanoptimalRNSsolutionforc=1robustnode, 4calsopresenttheoptimalRNSsolutionsforr =2andr, =3robustnodes
+whose connectivity values are 110 and 116, forr =1, 4 RNSsolutionsforc=4andr, r=2, andr=3, x =1, theRNSproblem is
+computedbyatreesearchprocedurewherelevell =0, Atthetoplevell =0, x =0, the
+treesearchlevell =1evaluatesallvalidpartialsetsofonerobustnodedefinedby
+eachofthesecriticalnodes, theoptimalsolutionsforr=1, 1untill =r, cr = r cl, sinceallvalidsets
+l=0
+ofl robustnodesareevaluatedfor0, Theresultsconsideracriticaldetectioncriterionbasedon
+c=3and5, and
+B =B, w =0, untilwij =0forall, value a of topology G if it is better than the input value b or returns a =b if the
+evaluationvalueofG isworst, theaimistoassesstheresilience
+improvement from the existing topology to a new network topology designed to
+maximize its resilience with the same fibre budget B=L, Considertheligthpathdegradationoneachintermediatenoded =60km
+andatransparentreachof2000km, 5presentsinlefttheoriginalGermany50topologyandinrightthebest
+topologyobtainedbyMSGRwithafibrebudgetB=8859kmandforc, againforc=3criticalnodes, forc=3, forc=3, Germany50
+has a resilience value z =711, 5 has a
+resiliencevaluez =991, theresilienceofGermany50toc=3
+criticalnodes, ofupgradedlinkslettheresultingGermany50
+topology to reach the same resilience value z =991, minu = u, miny = y, P Candidateroutingpathsfordemandd
+d
+constants
+α =1, otherwise
+cs
+α =1, otherwise
+csk
+β =1, x =1, otherwise
+u =1, otherwise
+ew
+u =1, otherwise
+w
+x =1, otherwise
+y =1, otherwise
+esk
+y =1, otherwise
+es
+y =1, x =1, x =1, x =1, deactivateconstraints
+variables
+x =1, x =Λ, W = x, Constant M isusedtospecifythelocationwhere
+anOPMwillbeplaced
+variable
+y =1ifOPMispresentattheoutputport, D Ademandfroms tod forperiodt
+Λt Arequestedconnectionbetweensandd forperiodt
+sd
+T Setofallperiods
+N numberofperiods
+variables
+xt =1, pw
+otherwise
+z =1, xt =Λt, isintroducedatt =600s
+A lightweight anomaly detection algorithm is implemented using exponential
+weightedmovingaverage, anomaly taking
+placeatt =600s, 1
+L = mind, wc
+L =maxmind, 1
+Lcc = mind, S10 ReliableControlandDataPlanesforSoftwarizedNetworks 255
+Lcc =maxmind, ECPL= p, 1
+A = A, I = R, orchestratorlatencyaffectstheDIonthe
+controlplane
+planewhoseDI=8haspathsthattraverseareastwiceasriskyasthoseofacontrol
+planewhoseDI, α =1, 1 2 n
+Route =max, j j
+LQE=α, 1
+α = exp r, 1 β = exp r, 51σ2
+σ2 =exp r, a
+σ2 =F σ2, Inparticularγ =γ, γ =I2, P =0, M
+nigram
+knil
+deriuqeR
+P =0, 1
+out
+P =10, 3
+out
+P =10, P =10, P =10, rmax
+A =4, 7forγ =15dB, 2
+Scintillation index σ2
+l
+P
+ytilibaborp
+egatuO
+tuo
+γ = 10 dB
+n
+γ, = 15 dB
+n
+γ, = 20 dB
+n
+Fig, Y =X, fork =1, REB
+Narr=2, Turb=on, R =1 m
+d
+Narr, Turb=on, R =8 m
+d
+Narr, Turb=off
+Narr, Turb=on, R =1 m
+d
+Narr, Turb=off
+Narr, Turb=on, R =8 m
+d
+Fig, N = 2, but N = 8, the diameter of the receiver is R = 1, Turb = on, The curvature in case of N = 2 and N, = 8
+arr arr, R =1m, Itisclearlyvisiblethat
+whenN =8andtheaperturediameterisR, =8m, R =1, R = 1 m d
+ycneuqerF
+R, = 8 m d
+6
+5
+4
+3
+2
+0, 4
+P
+R = 1 m d, noitaunettA
+R = 8 m d
+Fig, namely Rd = 1m and Rd, = 8m, thefirstandthesecondSNSPDchannelsusedforrepresentingdeep
+spaceFSOPoissonchannelcommunicationshouldoperatewithI =11, 7µAand
+b
+I = 15, T = max, weshowasimpleexampleoftheeffectofthebandwidth
+assigned to a migration of a VM of size 1 Gb with D = 100 Mbit, x =1, x = 0, y
+v
+= 1, y
+v
+= 0, y = 0, 6shows
+thenumberofVMsmigratedfortheonlinestrategiesfor D =100and D, =500
+Mbit, For A = 30 s, for
+D =100Mbit, whilenoneoftheVMsismigratedonlinefor D =500Mbit, D = 500
+D, = 100
+Fig, forD=100Mbit, sandD=500Mbit, planelatency
+violationpenaltiesC =2
+andmigrationtime
+T, =80ms
+ismeasuredasthenumberofsuccessfuladaptationswithrespecttothegivencon, ForagivensetV ofvulnerabilityregionsandaminimumgeographicaldistanceD
+v
+associatedtoeachregionv =1, 3presentstheoptimalcostvaluesfor D =120kmand300kmandfor406 A, 3 Optimalcostsfor
+D=120kmand300km
+withvulnerabilityregions, 4 presents the anycast nodes of the optimal solutions for
+D = 120 km with R, = 14 anycast nodes with and without vulnerability regions, ofoptimalsolutionsforD=120kmandR, Consider
+also that the maximum delay parameters are D =30, and D =70, c = 1, D =30, and D =70, Dsc=30, andDcc=70, and p =4, networkandfor p =4, that the SDN operator aims to distribute
+C = p, withD =30, sc
+andD =70, basedattacksfor p =4as
+cc
+showninFig, and its robustness is n =14 and n, =20, anditsrobustnessisn =15andn, =20, 8presentstwo
+sc s
+best CPP solutions whose robustness is n =20 and n, =20, whichissignificantbutstillmuchlowerthan
+D =70, anoddnumberofSDNcontrollersC =2, that the SDN operator aims to distribute C = p, p=4, p=4, withD =30, sc
+and D =70, based attack for p =4, is n =94, n =14 and n, =10, is n =94, n =15 and n, =14, 9 presents two best CPP
+sp sc pc
+solutionswhoserobustnessisn =94, n =20andn, =18, 1 p
+M m p=pm
+LiketheACAmetric, considers p =1, theintensity p =1duetothefact
+thatcurrentnetworksarealreadyresilienttosinglelinkfailures, one for each intensity p = p, foreachp = p, withk =1, withk =1, the set k =1 of r replica nodes is computed by solving
+anILPmodelwithanavailablesolveranda isassignedwiththeoptimalsolution
+1
+value, fork =2, r =4 and r, =6, The
+methodwassetwith K =500andwiththecriticallink, considering p =2andfourdifferentvaluesof p, =3, p=3, disconnects2nodes p=6, disconnects6nodes
+p=9, disconnects9nodes p=12, averagereplicaplacementsolution
+withr =6andthesetsMpofcriticallinks, forintensities p = 3, Considerthecasewithr =6replicanodesandtherobustnessevaluationbased
+on the maximum intensity p, =12, The set k =1 of replica nodes, considering all intensity
+values p = p, fortheattackintensities p =3, againwithits
+setsofcriticallinksfortheattackintensities p =3, 423
+p=3, disconnects2nodes p=6, disconnects4nodes
+p=9, disconnects7nodes p=12, foundrobustsolutionwithr =6andthe
+setsMpofcriticallinks, forintensities p=3, from9to7andfrom13to
+11fortheattackintensities p =6, c withk =1, A
+xk = k i j k, =1, 1 ifv
+i
+=s
+xk, 1 ifv =d, withk =1, i =1, η=a, associated
+1
+withriskr =1ofaneventcuttingconduitg andcausingthefailureofopticallinks
+a
+e ande, A
+h = i j r, k =1, if p containsanarcof A
+zk = k r, k =1, i =1, ss
+Let S = V betheinitialsetofallunvisited nodes, v i = arg minv h, i i j si ij sj
+t =t, sj si ij
+andsetτ =v, Thelabelof Bchangestot =2, t
+si
+=t sw, 15forademandtoestablishasetofk =3node, Bystoppingthe
+algorithmexecutionat L =k, afirstestablishedpath p =s, P = c Zn, R = c Zn pnp, A=ε Rt, c =a, wedefine D =min, geodiversepathsfor a D=80kmandb D, forD =80km, andfor D =120km, For D =80km, whilefor
+D =120km, themaximum D = DMax valueforwhichapairof D, DMax =142kmandtheminimumcost
+sd
+is1922, for D =100km, andfor D =200km, For D =100km, whileforD =200km, Notethatif D =100km, geodiverse paths for a D=100 km and b D, withk =1, recall D =min, ifD =0, The maximum D= DMax value for which a pair of D, identifiedasD=xkmintheforthcomingfigures, D =min D, ereddistanceswereD =40, SRLG D=40km D, 80km D=120km D, forD=40km
+and10, forD=160km, toachieveageodiversityof D =160km, forD=40km, forD=160km, the results for
+D=80kmandD, whichisα =0, SRLG D=40km D, 80km D=120km D, m =γρη d, 5=22dataunitsarelostduetothedelayinrespondingtothelinkcapacity
+degradation, 5=8 units, 5=3units, 3=6unitssinceflow F stilloverloadsbothlink, 8=5units, 5=15dataunits, s =1ifflowkisupdatedtoitsfinalstateatrounds, s =1, s=1
+Atrounds, k=1 l, 1 k=1 l, B
+s=1, s =1, s=1, N
+Jπ = TG, i=0518 F, u =0means
+n
+no rerouting takes place and the network stays in the same state in the next time
+interval, w =0, Forw = N, 24=8760 hourly periods, M =P, WecanexpresspathlossindecibelsasL=10nlog, ThenetworkiscomposedofV =12, j=1
+applying the following formula for all directed pairs, j =1, k=1 k, The total network cost is then C =
+ξ, xs =x0, uk =1, k=k, k=k, k=k, k=k, k=k, uk =1, Uk = uk, β =1, h =H, K
+x =x0, xs =z0, negative z and where z0 =x0, ts =1, V
+X = xm, M
+Y = ym, ym =xm, andanodetransmitswithfull
+v
+powerifη =1, anddoesnottransmitatallifη =0, where γˆ =min m, Thebilinearitiesη X canberesolvedbydefiningauxiliaryvariablesz =η X, t =1, ThecostofonemoduleofM =10Gbpsoneachlink
+isnormalizedto1, 24=
+8784hourlydegradationstates, 1253=
+7531connectedstates, PGAappliedtostatepolytopeswith
+K =2, a =a, a =a, =a, =a, 1 4 5 S O
+a =a, =a, =a, Ifweassumethata =
+12 S S O S O S
+a, anda =a, S
+Notethatsincea =a, anda =a, a =a, i =1, then
+S
+δ = A, a=0, 44
+a=0, 23756
+a=0, HopWP
+a=0, 729
+same
+a=0, min=0, Hop
+a=0, 9639
+same
+a=0, R=50, T=0, T=0, T=0, T=0, T=0, T=0, T=0, T=0, consideringR=50kminscenario, T=0, T=0, T=0, T=0, T=0, T=0, consideringR=50kminscenario, ifT =0, ifT =0, ifT =0, ifT =0, except for
+T =0, T=0, T=0, T=0, T=0, T=0, T=0, T=0, T=0, consideringR=50km
+varies between 7, ifT =0, ifT =0, ifT =0, ifT =0, bethesetofalledgesinthepathsbelongingtoRwith x =0, MTTR
+a =1, we consider MTTR=24 h and CC, au =a, 99999betweenallnodepairsinGermany50
+Algorithm D=40km D, 80km D=120km D, 8 D=40, U = 1, N
+U = 1, j
+i=0 i, 0 out k=0 j, y =1, x =1, j =1, y = p, i i i
+n
+i=1
+wheren isthenumberofRSUscommunicatingwithithgateway, i=129 DesignofResilientVehicle, 4 Urbancells
+divisionexample
+Uncovered Uncovered Uncovered
+Vehicles Vehicles Veh icles
+Value = 2 Value, = 5 Value, = 2
+Urban Cell 1 Urban Cell 2 Urban Cell 3
+Uncovered Uncovered Uncovered
+Vehicles Vehicles Vehicles
+Value, = 2 Value, = 6 Value, = 4
+Urban Cell 4 Urban Cell 5 Urban Cell 6
+Uncovered Uncovered Uncovered
+Vehicles Vehicles Vehicles
+Value, = 2 Value, = 3 Value, = 4
+Urban Cell 7 Urban Cell 8 Urban Cell 9
+example presented in Fig, 2 parametermeansthatρ =30, 3 2
+duringρ =20, Urban Cell 1 Urban Cell 2 Urban Cell 3
+Vehicle 2
+Relative Score1= 40, Relative Score2= 25, Relative Score3= 35, w2 h2
+d =max, Q = F min t 10, G =2, S =3, G =2, 05and S =3, 500
+PER= RSU, casePER=40, when D =500m, services
+k isgivenby A= a, whenbothclientsi =3andi, =4initiateademand, thefacility j =1towhichtheyareassignedrequiresfourunits
+ofcapacitytostorethetwocopiesofthisproduct, the demands initially assigned to the facility located at j =1 are re, routedtothefacilitylocatedat j =2whenthefacilityplacedattheformerloca, the facility located at j =1 acts as, backup
+of the facility located at j =2, levelr =0, levelr =1, whenr =0, wereferto
+aprimaryassignmentandwhenr =1toabackupassignment, ThecRFLPgeneralizesthismodeltomultiplelevels
+r =0, Kr=0
+In the objective function, eachdemandisassigned
+tooneprimaryfacilityatlevelr =0andtoanother, facilityatlevelr =1, ringatfacility j =1and j, =2respectively, theknowledgeofwhetherfacility j =1failsprovidesno
+informationonthelikelihoodofthefailureoccurrenceoffacility j, =2, edgeofwhetherfacility j =2failsprovidesnoinformationonthelikelihoodofthe
+failureoccurrenceoffacility j, =1, at level r =0, At level r =1, that facility j
+servesclienti atlevelr =1isthendeterminedby P, q giventhatfacility pservesclienti atlevelr =0, oneintroducesanauxiliaryvariableζ = x P togetherwith
+ijkr ijkr ipkr
+the following set of constraints, at levelr =0, at levelr =1, at
+levelr =0, Atlevelr =1, the
+probabilitythatfacility j servesclienti atlevelr =1isthendeterminedgiventhat
+facilitypservesclientiatlevelr, =0byP ijkr, atlevelr =0, b =b, s =1, s =2, s =3, theidentity
+matrix P = I isusedtorepresentδ"
+A_wireless_sensor_network_for_early_forest_fire_detection_and_monitoring_as_a_decision_factor_in_the_context_of_a_complex_integrated_emergency_response_system (1).pdf,Sensors,None,None,signal processing,None
+An_Acknowledgement_Based_System_for_Forest_Fire_Detection_via_Leach_Algorithm.pdf,SDE-only,None,simulation model,None,None
+A_smart_forest-fire_early_detection_sensory_system_Another_approach_of_utilizing_wireless_sensor_and_neural_networks.pdf,Neither,None,None,None,None
+Disaster_Management_Projects_Using_Wireless_Sensor_Networks_An_Overview.pdf,Neither,None,None,None,None
+ARIA_Air_Pollutants_Monitoring_Using_UAVs.pdf,Neither,None,None,None,None
+Optimal_Band_Selection_of_Multispectral_Sensors_for_Wildfire_Detection.pdf,SDE-only,None,simulation model,signal processing,None
+3584871.3584905.pdf,Neither,None,None,None,None
+A_Smart_Forest_Fire_Detection_and_Notification_System_using_IOT_and_Machine_Learning.pdf,Neither,None,None,None,None
+978-3-031-20709-9.pdf,Both PDE and SDE,"physical phenomena, initial conditions, temporal dynamics","predictive model, simulation model, control system","physical parameters, sensor placement, signal processing","$50–$, ContentID=93257, key=1014, BER = 10, tÞ=count
+i, r = ðT, θ= arcsinð1, TheMachnumberisassumedtobeknownsincethe
+typical value for a Mach number is m = 2, π=þθþω, π=2, 3π=2, 6Þ
+i π=2þθþω, ifπ=2þθþω, θþω corresponds to the scenario where the
+i 2
+sensor is located above the bullet trajectory and the case π=þθþω, Thecasewhereϕ =π, 90 3 WSNsApplications
+r
+τ = i½1, ϕb i=h 1ðT, 8Þ
+φb i=h 2ðT, 9Þ
+bτ i=h 3ðT, LetTb i= ϕb
+i
+br
+i
+ωb
+i
+denote
+the individual sensor level estimates on the target bearing, ωb i=ω iþη
+φ
+ð3, Tb =b S þbr cosϕb ð3, 12Þ
+xi ix i i
+Tb =b S þbr sinϕb ð3, 5 fs= 5kHz SPI
+Current Tdelay, gap= pffiffiffi ði A, η= T shaft, ω r = T air, 60Hzand
+e
+f =29, True Positives
+Precision= ð3, 16Þ
+True PositivesþFalse Positives
+True Positives
+Recall= ð3, 2 frames = 8 MByte, q=search, keys=Bombus, search=Search, ContentID=93257, doc_id=1289616, ReleaseID=174502, q=environment, products_id=644, redirected=1, id=1664076, file=0333, XR
+E =E, 1Þ
+re in r
+r=0
+whereE, =E forr, when E = 0 J, E =0J, Pn
+E
+ren
+E = 1 ð4, dÞ= elec f 0 ð4, 0
+rffiffiffiffiffiffi
+E
+d = f ð4, E ðqÞ=q, count=6, count=5, P
+K Probðsuccess of v Þ
+RðvÞ= k, P
+K0 Probðsuccess of q Þ
+RðqÞ= k, ti
+dðiÞ= s ð5, Total packets dropped in the network
+Energytax= ð5, ðAverage energytaxwith syphonÞÞ
+=
+ðAverage energytaxwithout siphonÞ
+ð5, ðPackets receivedatthe physical sink with siphonÞ
+Fidelity ratio= ð5, Remaining energy
+Residual energy= ð5, x
+l
+L= l, E =ðE þE Þ, L=4andL, InthisnewscenarioL=3and
+L, Thenumber
+F
+ofFFDsisN F=d0, whereN=50and100, E =E, E = E, E = E, when
+N = 200, The performance boost is more evident with N = d0, Ne than with
+F
+N =d0, j ij
+cost =cost þC ð6, 6Þ
+ij j ij
+suchthat
+C =eα, P
+cost
+ik
+cost = k2FTi ð6, B =
+P1, 9Þ
+i 1= costjk, E=P, 2 3
+1 1 1
+6 7
+E=ðE þEÞ, 11Þ
+1 1 1
+=ðE þEÞ, þ
+r t i iþ1 k
+X
+=ðE þEÞ, k 1
+r t m=im
+whereallnodesinthenetworkareassumedtohavethesamecostC, 2 3
+1 1 1
+E=ðE rþE tÞ, 6 4 Pk
+1=
+þ Pk
+1, þ Pk 1=7 5 ð6, 12Þ
+m m m
+m=k, iþ1 m=k, i m=1
+ForBEER, 6
+6
+6
+4
+Pk1
+1=
+mþ
+Pk1
+1, Pk
+1=1
+m, k
+E= 2 m, iþ 31 m=k, i m=2, Pk
+1=1, fori=k
+m, k
+m=2
+ð6, S=1, andcross8representtheCLBroutinggraphsform=2, iþ2
+E= ðE, S=1, fork=1to10, S=2, LayerProtocolsforWSNs
+2022 Let m =jEðvÞjþjEðvÞ0j be the total number of v, mvi
+i=1
+whereq2hopistheprobabilityoftheneighbormovingfartherfromthedestination, q2hop=2, i=1, PðmviÞ =Y, f = 2, viÞ
+t i
+i=0
+where6, 1 3
+mvi
+q= þ ð6, PðmviÞ =Y, f = 1, 22Þ
+i π 2 2 i
+where
+pffiffiffiffiffi
+x = w, I=1, i = 1, wherecw israndomlychosen
+j i i
+j=1
+suchthatcw i2, whereCW max=CW i, ForN =3priorityregions, ThereexistnopotentialneighborswithI=1, alivepacketafter CW þcwifno
+j
+j=1
+communication is overheard, i
+X
+λ =λ þλ, =λ þ λ ð6, μ =ð1þeÞ, T =λ, T =ð1þe Þ, ii
+λ =0, 1
+λ =λ, λ =λ þα ð6, E ðDÞ=E, E =E þE þE ð6, The distance between the pair of nodes is d = E
+h, K=E þ pC 2, EC þ pC 3
+sense s tx wait rx s t=o s, 38Þ
+s tx rx s s s t=o
+suchthat
+E istheenergyconsumptionspentsensingtheregion
+sense
+ER, dependentterms
+wait t=o
+Accordingtothepreviousdiscussiononthereceivercontention, waits for CWmax=
+2
+in its priority slot in addition to
+waitingforthepreviouspriorityslots, i
+fornodeiexistsinA byP =PfN, =j, 1
+CW
+EC =e, 39Þ
+wait rx k 2 i
+i=1 k, P i= 1, 40Þ
+p =1, pD inf s rx
+E = s s, pC
+s
+= 1, pD
+s
+= 1, LayerDesignApproaches 389
+20
+D=60m
+D, 120m
+18 D=150m
+D, 6
+tupdoog
+egarevA
+No_
+h
+=5db
+h, = 10db
+h, = 15db
+h
+No_
+h, =5db
+h, = 10db
+h, = 15db
+h
+Fig, Thelesseningingoodputatδ=0, forξ =15dB, forξ =15dB, ξ = 10 dB
+Th Th
+resultsinthelowestlatency, 8
+No_
+h
+7 =5db
+h, = 10db
+h
+6, = 15db h
+5
+4
+3
+2
+1
+0 0, Xn =P MkjFr ð7, MR i= E½Mi, Let P =P M1jF1 and P, =P F1jX1, 3Þ
+= rP P FrjXn PðXnÞ
+ðMjFÞ i
+n rX, =P EðFjXnÞPðXnÞ, 2
+MR =P P ð7, $548 (NetBridge/XSS: US $, prdClassInput=By, prdSubClassInput=2011011816087001, prdInput=20140402113624001, doc_id=1154789, Pronto=OpenNetworkPlatform, 2stopsatn=18becausens, 2cutsoffatn=14becauseitranoutofmemoryforn, 1
+P ðdÞ=P, jÞ=P d, jÞ
+SINR= Prec ð8, X
+P ðiÞ= P ði, Angle θ = θ, yÞ= ðx, E=E0, E=g, ailatsaC
+103=di
+level, doi=10, rep=rep1, type=pdf, n=Main, companyId=88116085, targetid=profileReferences 681
+EcoLogicSense, context=overtno, content=overtno, laag1=overtno682 9 WSNManufacturers
+Valarm"
+3576841.3585929.pdf,Neither,None,None,None,None
+2507924.2507941.pdf,SDE-only,None,simulation model,None,None
+3234698.3234764.pdf,Neither,None,None,None,None
+Performance_evaluation_of_routing_protocols_for_wireless_sensor_networks_in_forest_fire_detection_application (1).pdf,Neither,None,None,None,None
+Randomized_k-Coverage_Algorithms_For_Dense_Sensor_Networks.pdf,Neither,None,None,None,None
+A_forest_fire_prediction_system_based_on_rechargeable_wireless_sensor_networks.pdf,Neither,None,None,None,None
+Using_Wireless_Sensor_Network_for_Wildfire_detection._A_discrete_event_approach_of_environmental_monitoring_tool.pdf,Neither,None,None,None,None
+A_review_on_early_forest_fire_detection_using_IoT-enabled_WSN (1).pdf,Sensors,None,None,signal processing,None
+Forest_Fire_Warning_System_Based_on_GIS_and_WSNs.pdf,SDE-only,None,control system,None,None
+Performance_evaluation_of_routing_protocols_for_wireless_sensor_networks_in_forest_fire_detection_application.pdf,Neither,None,None,None,None
+Communication_Perspective_of_Wildfire_Detection_and_Suppression_A_Survey_of_Technologies_Requirements_and_Future_Directions (1).pdf,Neither,None,None,None,None
+Multi-AI_Based_Wireless_Sensor_Node_for_Forest_Fire_Detection (1).pdf,Neither,None,None,None,None
+Wireless_Sensor_Network_Framework_for_Early_Detection_and_Warning_of_Forest_Fire.pdf,Neither,None,None,None,None
+Internet-of-Things_Enabled_Forest_Fire_Detection_System.pdf,Neither,None,None,None,None
+1869983.1869997.pdf,Neither,None,None,None,None
+Firoxio_Forest_fire_detection_and_alerting_system.pdf,Neither,None,None,None,None
+Forest_fire_detection_system_based_on_wireless_sensor_network.pdf,SDE-only,None,control system,signal processing,None
+Real-time_Forest_Fire_Detection_and_Alert_System_Using_Wireless_Sensor_Networks_and_Solar_Energy.pdf,Neither,None,None,None,None
+1-s2.0-S0048969716318666-main.pdf,SDE-only,None,statistical analysis,None,None
+1-s2.0-S1319157817302707-main.pdf,Neither,None,None,None,None
+NWCG Standards for Fire Weather Stations_2019_1.pdf,SDE-only,None,decision support system,None,None
+3293614.3293615.pdf,Neither,None,None,None,None
+Application_of_WSNs_for_Detection_Land_and_Forest_Fire_in_Riau_Province_Indonesia.pdf,Neither,None,None,None,None
+3608100.pdf,Sensors,None,None,sensor accuracy,None
+3576842.3582381.pdf,PDE-only,physical phenomena,None,None,"ame x = t Anomaly Probability
+Scenario 1 Wind Model a cell L Se cn ng, ka inw ga ure nig tr sa ap rh
+e
+𝑒
+𝑛𝑒𝑡
+=G, Ourongoingresearchaimstoaddress
+𝑒
+𝑐𝑜𝑣
+=G, $110and$"
+Current_Status_of_Micro_Nanosensors_and_Their_Potential_Applicability_to_the_Prevention_and_Early_Detection_of_Forest_Fires (1).pdf,SDE-only,None,risk assessment,None,None
+System_Architecture_for_a_Wireless_Sensor_Network_for_Sustainable_Agriculture_Forestry_and_Green_Spaces_in_Smart_Cities.pdf,SDE-only,None,control system,None,None
+s41598-021-03882-9.pdf,SDE-only,None,machine learning model,None,None
+electronics-09-00893-v2.pdf,Neither,None,None,None,None
+From_cellular_networks_to_the_garden_hose_Advances_in_rainfall_monitoring_via_cellular_power_measurements.pdf,Neither,None,None,None,None
+1-s2.0-S0048969717334320-main.pdf,Neither,None,None,None,None
+An_Intelligent_Framework_for_Wireless_Sensor_Networks_in_Environmental_Monitoring.pdf,Neither,None,None,None,None
+1995456.1995880.pdf,SDE-only,None,"simulation model, data assimilation",None,None
+Energy-Efficient_Algorithm_for_Robot-Assisted_Sensor_Deployment.pdf,PDE-only,problem formulation,None,sensor placement,"assisted sensor deployment
+capacity = Maximum capacity of the robot
+algorithms to find the best algorithm under different simulated
+Output, Let
+Pcur = Current position of the robot, Pnew = New position of
+the robot and load, = the number of sensors currently carried by
+robot
+Algorithm, if load = capacity
+3, totalDist = totalDist, load=capacity
+Greedy, load = load, Pcur = Pnew
+maximum deficit cell"
+Wireless_Sensor_Networks_for_Natural_Disaster_Management_-_A_Survey.pdf,SDE-only,None,control system,physical parameters,None
+A_UAV_Forest_Fire_Detection_Method_Based_on_Dual-Light_Vision_Images.pdf,Neither,None,None,None,None
+Energy_optimization_at_the_MAC_layer_for_a_forest_fire_monitoring_wireless_sensor_network.pdf,Neither,None,None,None,None
+Model_for_Advanced_Sensor_Placement_in_Wildfire_Detection_Systems.pdf,Sensors,None,None,sensor placement,None
+A_forest_fire_monitoring_system_based_on_GPRS_and_ZigBee_wireless_sensor_network.pdf,SDE-only,None,control system,None,None
+Forest_Fire_Detection_using_Nine-Layer_Deep_Convolutional_Neural_Network.pdf,Neither,None,None,None,None
+Real-time_forest_fire_detection_with_wireless_sensor_networks.pdf,SDE-only,None,"risk assessment, adaptive algorithm",None,None
+An_Improved_Algorithm_Based_on_D-S_Evidence_Theory_for_Accurate_Wildfire_Detection.pdf,Neither,None,None,None,None
+Forest_Fire_Detection_for_Edge_Devices.pdf,Neither,None,None,None,None
+Persistent_Cooperative_Monitoring_System_of_Disaster_Areas_Using_UAV_Networks.pdf,SDE-only,None,simulation model,None,None
+Coverage_and_Deployment_Algorithms_in_Wireless_Sen.pdf,Neither,None,None,None,None
+HGA-based_Auto-tuning_of_Peltier_coolers_in_PAIS_project_New_environmental_monitoring_and_early_wildfire_detection_system.pdf,Both PDE and SDE,"problem formulation, objective function",control system,None,None
+Wildland_Fire_Detection_and_Monitoring_Using_a_Drone-Collected_RGB_IR_Image_Dataset.pdf,SDE-only,None,data assimilation,None,None
+An_efficient_and_optimal_clustering_algorithm_for_real-time_forest_fire_prediction_with.pdf,Sensors,None,None,signal processing,None
+Research_on_Forest_Fire_Monitoring_Quality_Variation_with_Wireless_Sensor_Node_Density.pdf,Neither,None,None,None,None
+s10479-023-05657-z.pdf,PDE-only,objective function,None,None,None
+s11042-023-16647-5.pdf,Neither,None,None,None,None
+Wireless-Sensor_Network_Topology_Optimization_in_Complex_Terrain_A_Bayesian_Approach.pdf,Neither,None,None,None,None
+1-s2.0-S0301479717309817-main.pdf,Neither,None,None,None,None
+2896387.2896450.pdf,Neither,None,None,None,None
+Early_Forest_Fire_Prediction_System_Using_Wireless_Sensor_Network.pdf,Neither,None,None,None,None
+A_Simple_Grid-Based_Localization_Technique_in_Wireless_Sensor_Networks_for_Forest_Fire_Detection.pdf,Neither,None,None,None,None
+Low-Power_Distributed_Sensor_Network_for_Wildfire_Detection (1).pdf,Sensors,None,None,signal processing,None
+Forest_Fire_Detection_and_Guiding_Animals_to_a_Safe_Area_by_Using_Sensor_Networks_and_Sound.pdf,Neither,None,None,None,None
+1878537.1878539.pdf,SDE-only,None,"simulation model, decision support system",None,None
+ICSE-SEIS.2017.8.pdf,Neither,None,None,None,None
+Application_of_wireless_sensor_networks_in_forest_fire_detection_under_uncertainty.pdf,SDE-only,None,risk assessment,signal processing,None
+Sensor_Deployment_Strategies_for_Target_Coverage_Problems_in_Underwater_Acoustic_Sensor_Networks.pdf,Neither,None,None,None,None
+Multi_Sensor_Network_System_for_Early_Detection_and_Prediction_of_Forest_Fires_in_Southeast_Asia.pdf,Neither,None,None,None,None
+Forest_Fire_Detection_via_the_Internet_of_Things-Based_Systems.pdf,SDE-only,None,risk assessment,signal processing,None
+A_Novel_Accurate_Forest_Fire_Detection_System_Using_Wireless_Sensor_Networks.pdf,Neither,None,None,None,None
+forests-12-00453.pdf,PDE-only,objective function,None,None,"fh =0, forj =1, for
+j
+j =1, forj =1, nsandi =1, CD = d 1, H = max max min min ji max min, j
+fh = fh, forj =1, i i
+x
+i=1
+whereσ, for
+1 ns j 1 ns
+j = 1, min max min max min max min max
+k=0
+GeneratesthepopulationofindividualsN, pop
+whilestoppingcriterionisnotmetdo
+k=k, Theparametersusedfortheoptimisationproblemwere
+σ=50, fd =0, fd =100, fh =0, d =0and
+min max min max i min
+d variesaccordingtothesensortype, beingdA =50forthesensor AanddB, =100
+max max max
+forthesensorB, TheparametersusedfortheGAterminationcriterionare N =1200
+max
+andNSS, =50"
+Energy_Efficient_Routing_Protocol_in_Forest_Fire_Detection_System.pdf,SDE-only,None,decision support system,None,None
+1639809.1639845.pdf,SDE-only,None,"simulation model, data assimilation",signal processing,None
+ahswn09a.pdf,Neither,None,None,None,None
+An efficient local improvement operator for the multi-objective wireless sensor network deployment problem.pdf,Both PDE and SDE,problem formulation,statistical analysis,sensor placement,"journalCode=geno20EngineeringOptimization
+Vol, 2 i i=1
+subjectto
+C, whereβ =1andα, =2, P =parentNodes, and C =
+a b
+childNodes, CovConEq=CovEq, aWSNlayoutwsn=n 1n 2, i =1, i =1, The distribution index is set to
+i i
+η =20, Maximumnumberofnodes=250, Initialnodedeploymentprobability=50, R =30m, R =30m, iscalculatedasHV =volume, i=1 i
+Finally, fmin
+fnorm = i i
+i fmax, i =1, r
+i=1
+where Ai is the ith approximate Pareto optimal set and I is an indicator function that takes
+the value 1 when Ai dominates solution z, the genetic operators are SBX crossover and
+polynomialmutationwithratesp =0, 9andp =1, threshold=30, andprobability=1, threshold=30andprobability, Besides the predefined
+probability of X =50, the values X =75, and X =100, the ideal configuration of PACO is set to threshold=30, probability=1, theinitialnodedensityissettoX =50, Theparametricconfigurationsarethedifferentcombinations
+of crossover probability with values p =0, p =0, p =0, 5 and p =0, for convenience
+referredtoasp =1, p =5, 0andp =10, excludingtheoneswithPAESandtheoneshavingp =0
+c
+since there is no crossover involved there, with
+thehighestHVvaluesobtainedforp =1, butthebestresultsaregenerallyobtainedwithp =0, MOCellwithp =1, 0andp =0, polynomialmutationwithp =1, RGXcrossoverwithp =0"
+Distributed_coverage_of_forest_fire_border_based_on_WSN.pdf,Sensors,None,None,signal processing,None
+1-s2.0-S0168192322001630-main.pdf,Sensors,None,None,sensor accuracy,None
+Wireless_Sensor_Networks_for_Early_Detection_of_Forest_Fires (1).pdf,Neither,None,None,None,None
+Automated_Forest_Fire_Prediction_Systems_A_Comprehensive_Review.pdf,Neither,None,None,None,None
+Model_for_Advanced_Sensor_Placement_in_Wildfire_Detection_Systems (1).pdf,Sensors,None,None,sensor placement,None
+3227609.3227677.pdf,Neither,None,None,None,None
+Forest_Fire_Monitoring_System_and_Energy_Saving_Algorithm.pdf,Neither,None,None,None,None
+Trustworthiness_in_Sensor_Networks_A_Reputation-Based_Method_for_Weather_Stations.pdf,Neither,None,None,None,None
+Wildfire_Detection_using_Wireless_Mesh_Network.pdf,SDE-only,None,control system,None,None
+Forest_Fire_Detection_using_Convolutional_Neural_Networks_CNN.pdf,Neither,None,None,None,None
+1582379.1582636.pdf,Neither,None,None,None,None
+Demonstration_of_Wildfire_Detection_Using_Image_Classification_Onboard_CubeSat.pdf,Neither,None,None,None,None
+The_Monitoring_of_Host_Computer_for_Forest_Fire_Detection_System_Based_on_Wireless_Sensor_Network.pdf,Neither,None,None,None,None
+Fault_Detection_in_Forest_Fire_Monitoring_Using_Negative_Selection_Approach.pdf,Neither,None,None,None,None
+3293500.pdf,Neither,None,None,None,None
+Comparison_of_Frequency_Bands_for_Wireless_Communication_in_Forests_Using_LoRa_Modulation.pdf,Neither,None,None,None,None
+SoK_Security_and_Privacy_in_the_Age_of_Commercial_Drones.pdf,SDE-only,None,control system,signal processing,None
+IoT_based_Forest_Fire_Detection_and_Protection_System.pdf,Neither,None,None,None,None
+Early_Forest-Fire_Detection_by_Linear_Regression_Ridge_Regression_And_Lasso_Regression.pdf,Neither,None,None,None,None
+1-s2.0-S0168192309001944-main.pdf,PDE-only,temporal dynamics,None,None,None
+The_robot-assisted_sensor_deployment_problem_in_Wireless_Sensor_Networks.pdf,PDE-only,problem formulation,None,None,None
+3D node deployment strategies prediction in wireless sensors network.pdf,Neither,None,None,None,None
+Silvanet Wildfire Sensor Datasheet.pdf,Neither,None,None,None,None
+Self-healing_Multipath_Routing_Protocol_to_assist_Wireless_Sensor_Network_based_Hazardous_Event_Monitoring.pdf,Neither,None,None,None,None
+A_Review_on_Forest_Fire_Detection_and_Monitoring_Systems.pdf,Sensors,None,None,signal processing,None
+1901.00511.pdf,Neither,None,None,None,None
+A_survivability_opportunistic_routing_protocol_for_Secure_Underwater_Acoustic_Sensor_Networks.pdf,Sensors,None,None,signal processing,None
+Forecasting_Naturally_Occurring_Forest_Fires_using_AI_and_Machine_Learning_in_Wireless_Sensor_Networks.pdf,Neither,None,None,None,None
+Modeling_and_Analysis_of_Wildfire_Detection_using_Wireless_Sensor_Network_with_Poisson_Deployment (1).pdf,SDE-only,None,hybrid model,None,None
+WF02055.pdf,Neither,None,None,None,None
+WF22150.pdf,SDE-only,None,statistical analysis,None,None
+Study_of_routing_protocols_used_in_sensor_networks_for_forest_fire_detection.pdf,Neither,None,None,None,None
+3462513.pdf,Neither,None,None,None,None
+Optimization_Based_Location_Es.pdf,PDE-only,objective function,None,None,"step of operation of the stationary platform using the following notation where the starting time t = 1 and the ending
+start
+time is t, = n, 𝑖𝑖=1, w𝑎𝑎er𝑖𝑖𝑖𝑖 e =cal0culated due to the fact that we compute
+only one set of estimate values as the result for the entire system of quadratic programming equations, 𝑖𝑖=1𝑡𝑡, li𝑎𝑎fi𝑖𝑖 c𝑖𝑖 a=tio0ns of the problem statement are used, 𝑖𝑖=1𝑡𝑡, 𝑖𝑖=1𝑡𝑡, 𝑖𝑖=2, 𝑡𝑡
+=
+𝑚𝑚
+𝑦𝑦, 𝑖𝑖 =2, CG = Center of Gravity, m = meter"
+1-s2.0-S1877050913007126-main.pdf,Neither,None,None,None,None
+Detecting_and_Reporting_Forest_Fire_through_Deployment_of_Three_Dimensional_Multi-sink_Wireless_Sensor_Network.pdf,Neither,None,None,None,None
+Sensor_Deployment_and_Link_Analysis_in_Satellite_IoT_Systems_for_Wildfire_Detection.pdf,Sensors,None,None,"sensor placement, signal processing",None
+3276774.3276792.pdf,Neither,None,None,None,None
+Forest_fire_detection_system_reliability_test_using_wireless_sensor_network_and_OpenMTC_communication_platform.pdf,Sensors,None,None,"sensor accuracy, sensor placement",None
+Unmanned_Aerial_Sensor_Placement_for_Cluttered_Environments.pdf,Sensors,None,None,sensor placement,None
+An_energy_efficient_framework_for_detection_and_monitoring_of_forest_fire_using_mobile_agent_in_wireless_sensor_networks.pdf,Neither,None,None,None,None
+Forest_fire_detection_system_based_on_Fuzzy_Kalman_filter.pdf,SDE-only,None,control system,None,None
+Integrating_Forest_Fire_Detection_with_Wireless_Sensor_Network_Based_on_Long_Range_Radio (1).pdf,Neither,None,None,None,None
+Development_and_Experimental_Validation_of_a_LoRa_Wireless_Sensor_Network_for_Wildfire_Surveillance.pdf,Neither,None,None,None,None
+Optimal_Wireless_Sensor_Networks_Allocation_for_Wooded_Areas_Using_Quantum-Behaved_Swarm_Optimization_Algorithms.pdf,Both PDE and SDE,objective function,optimization technique,None,"error
+vmax =k, each particle
+D = WEISS"
+2896387.2900323.pdf,SDE-only,None,statistical analysis,None,None
+Wireless_Sensor_Network_for_Wildfire_Detection_and_Notification_via_Walkie__Talkie_Network.pdf,Neither,None,None,None,None
+3473037.pdf,Neither,None,None,None,None
+The_design_of_forest_fire_monitoring_system_based_on_wireless_sensor_network.pdf,Neither,None,None,None,None
+2739480.2754751.pdf,Neither,None,None,None,None
+IoT_Sensor_and_Deep_Neural_Network_based_Wildfire_Prediction_System.pdf,SDE-only,None,machine learning model,None,None
+Reliability_analysis_of_Wireless_Sensor_Networks_for_forest_fire_detection (1).pdf,Neither,None,None,None,None
+A_review_on_early_forest_fire_detection_using_IoT-enabled_WSN.pdf,Sensors,None,None,signal processing,None
+Wireless_Sensor_Routing_Protocol_Research_Based_on_Forest_Fire_Protection (1).pdf,Neither,None,None,None,None
+Optimizing_Sensor_Node_Placement_for_Forest_Fire_Prevention_Using_Clustering_and_Regression.pdf,SDE-only,None,predictive model,sensor placement,None
+Integrated_Wireless_Sensor_Network_and_Machine_Learning_Algorithm_Based_Forest_Fire_Detection_System (1).pdf,SDE-only,None,machine learning model,None,None
+Designing_Appropriate_Sensor_Values_for_Surface_Forest_Fire_Alarm_Systems_Using_IoT.pdf,Neither,None,None,None,None
+Forest_Fire_Detection_by_using_MESA2DA_Clustering_Protocol_based_on_Artificial_Intelligence_Techniques.pdf,Neither,None,None,None,None
+A_wireless_sensor_network_for_early_forest_fire_detection_and_monitoring_as_a_decision_factor_in_the_context_of_a_complex_integrated_emergency_response_system.pdf,Sensors,None,None,signal processing,None
+Novel_Detection_of_Forest_Fire_using_Temperature_and_Carbon_Dioxide_Sensors_with_Improved_Accuracy_in_Comparison_between_two_Different_Zones.pdf,SDE-only,None,statistical analysis,None,None
+A_Method_for_Forest_Fire_Monitoring_Based_on_GA-BP.pdf,Neither,None,None,None,None
+Experimental_Evaluation_of_Smart_Forest_Fire_Detection_Methodology_using_Internet_of_Things_and_Logical_Sensors.pdf,SDE-only,None,control system,signal processing,None
+Experimental_Analysis_of_WSN_based_Solution_for_Early_Forest_Fire_Detection.pdf,Neither,None,None,None,None
+WF21066.pdf,SDE-only,None,data assimilation,None,None
+Modeling_and_Analysis_of_Wildfire_Detection_using_Wireless_Sensor_Network_with_Poisson_Deployment.pdf,SDE-only,None,hybrid model,None,None
+Study_of_routing_protocols_used_in_sensor_networks_for_forest_fire_detection (1).pdf,Neither,None,None,None,None
+Edge_Computing-Based_Wildfire_Detection_and_Optimization_Algorithm.pdf,Neither,None,None,None,None
+1-s2.0-S1389128610000824-main.pdf,SDE-only,None,control system,None,None
+1921621.1921625.pdf,PDE-only,objective function,None,sensor placement,"DOI=10, X s = x s, X A =xA, averaging over all possible observations X A = xA the placed sensors can make, 4 = 2, t = θ p, X
+V
+=xV, X s = x s, X A = xA, A = μ s, A
+= σ s2, 0
+forj=1to, dx =1, If σ2 = 0, wherer = 2max smax i, A
+Nowletr =2ϕ, is the predictive variance at location X s after observing X A = xA, We call z i = g i, ρ = 1, e js =as, γ m k=1F, 1
+e
+m k=1F, This suggests that the value r = 2 is an appropriate choice for the local, Call Q = Q, 1 2M 2 1
+N = log
+2 Qβ δ
+samplestoguaranteeasampleA with F, logm
+k= ε
+log 2
+2, Q m i=1 i
+F, i=1
+Similarly, requirethata =sanda, =t, Pr A= S, we subtract x = min, κ = 2 and κ, = 3, κ =3, there is a constant factor κ = 3"
+Forest_fire_monitoring_detection_and_decision_making_systems_by_wireless_sensor_network.pdf,Neither,None,None,None,None
+Policy_for_random_aerial_deployment_in_large_scale_Wireless_Sensor_Networks.pdf,Neither,None,None,None,None
+Developing_an_efficient_framework_for_real_time_monitoring_of_forest_fire_using_wireless_sensor_network.pdf,Sensors,None,None,physical parameters,None
+Forest_Fire_Detection_using_LoRa_Wireless_Mesh_Topology.pdf,Neither,None,None,None,None
