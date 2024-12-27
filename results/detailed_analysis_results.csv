@@ -1,11 +1,12 @@
 file,category,pde_subcategories,sde_subcategories,sensor_subcategories,equation_excerpts
-An_Early_Forest_Fire_Detection_System_Based_on_DJI_M300_Drone_and_H20T_Camera.pdf,Neither,None,None,None,None
+An_Early_Forest_Fire_Detection_System_Based_on_DJI_M300_Drone_and_H20T_Camera.pdf,Sensors,None,None,smart,None
 WF15090.pdf,Neither,None,None,None,None
-Research_and_implementation_of_forest_fire_early_warning_system_based_on_UWB_wireless_sensor_networks.pdf,SDE-only,None,control system,"signal processing, reconfigurable, fusion, data transmission",None
+Research_and_implementation_of_forest_fire_early_warning_system_based_on_UWB_wireless_sensor_networks.pdf,SDE-only,None,control system,"signal processing, reconfigurable, fusion, data transmission, smart",None
 Forest_Fire_Detection_Using_nRF24L01_Wireless_Sensor_Network_And_Prediction_by_Machine_Learning_Model (1).pdf,SDE-only,None,machine learning model,None,None
+Detection_of_forest_fire_using_Dezert-Smarandache_theory_in_wireless_sensor_networks.pdf,Sensors,None,None,"fusion, smart",None
 The_Technological_Ecosystem_of_Modern_Wildfire_Detection_A_Review.pdf,SDE-only,None,risk assessment,"spatial resolution, temporal resolution",None
-A_Hybrid_Mesh_Ad_Hoc_and_Sensor_Network_for_Forest_Fire_Management.pdf,Sensors,None,None,fusion,None
-Placing_Multiple_Sinks_in_Time-Sensitive_Wireless_Sensor_Networks_using_a_Genetic_Algorithm.pdf,PDE-only,objective function,None,None,"with
+A_Hybrid_Mesh_Ad_Hoc_and_Sensor_Network_for_Forest_Fire_Management.pdf,Sensors,None,None,"fusion, intelligent",None
+Placing_Multiple_Sinks_in_Time-Sensitive_Wireless_Sensor_Networks_using_a_Genetic_Algorithm.pdf,PDE-only,objective function,None,intelligent,"with
 d =f, i
 τ=g, p= p, i i
 i=1, s= s, j j
@@ -18,28 +19,40 @@ Gossip_routing_protocol_for_forest_fire_detection_using_wireless_sensor_networks
 There comes a point of time when the throughput abruptly LISTEN DataRec=true REC_DATA
 falls to zero, Msg_ID=NID"
 Forest_Fire_Detection_and_Guiding_Animals_to_a_Safe_Area_by_Using_Sensor_Networks_and_Sound (1).pdf,Neither,None,None,None,None
-An_insight_to_forest_fire_detection_techniques_using_wireless_sensor_networks.pdf,SDE-only,None,optimization technique,"fusion, data transmission",None
+Smart_Sensor_System_for_Detection_and_Forecasting_Forest_Fire_Hotspot_in_Riau_Province_Indonesia.pdf,Both PDE and SDE,temporal dynamics,control system,"smart, intelligent",None
+Emerging_Technologies_for_Prevention_and_Monitoring_of_Forest_Fire.pdf,SDE-only,None,control system,"smart, intelligent",None
+An_insight_to_forest_fire_detection_techniques_using_wireless_sensor_networks.pdf,SDE-only,None,optimization technique,"fusion, data transmission, intelligent",None
 Early_Detection_of_Forest_Fire_Using_Internet_of_Things.pdf,Neither,None,None,None,None
+Forest_Fire_Detection_Based_on_Light-Weight_Deep_Neural_Networks.pdf,Sensors,None,None,"signal processing, fusion, smart",None
 Adaptive_MAC_protocols_for_forest_fire_detection_using_Wireless_Sensor_Networks.pdf,Sensors,None,None,energy efficiency,None
-A_Preliminary_Prototype_of_LoRa-Based_Wireless_Sensor_Network_for_Forest_Fire_Monitoring.pdf,Sensors,None,None,"signal processing, fusion, data transmission",None
-ECOGUARD_Forest_Fire_Detection_System_using_Deep_Learning_Improved_with_Elastic_Weight_Consolidation.pdf,SDE-only,None,"predictive model, optimization technique",fusion,None
-Robot-based_forest_fire_detection_and_extinguishing_model.pdf,SDE-only,None,control system,None,None
+A_Preliminary_Prototype_of_LoRa-Based_Wireless_Sensor_Network_for_Forest_Fire_Monitoring.pdf,Sensors,None,None,"signal processing, fusion, data transmission, smart",None
+All-weather_automatic_solar_tracking_method_applied_in_forest_fire_prevention.pdf,SDE-only,None,control system,None,None
+ECOGUARD_Forest_Fire_Detection_System_using_Deep_Learning_Improved_with_Elastic_Weight_Consolidation.pdf,SDE-only,None,"predictive model, optimization technique","fusion, intelligent",None
+Robot-based_forest_fire_detection_and_extinguishing_model.pdf,SDE-only,None,control system,smart,None
 A_Deep_Learning_Method_based_on_SRN-YOLO_for_Forest_Fire_Detection.pdf,Neither,None,None,None,None
-IoT_based_Forest_Fire_Prediction_Framework.pdf,Neither,None,None,None,None
+IoT_based_Forest_Fire_Prediction_Framework.pdf,Sensors,None,None,"smart, intelligent",None
 3630590.3630602.pdf,Neither,None,None,None,None
-Forest_Fire_Detection_using_Machine_Learning.pdf,Sensors,None,None,fusion,None
-WF11168.pdf,Sensors,None,None,energy efficiency,None
+Forest_Fire_Detection_using_Machine_Learning.pdf,Sensors,None,None,"fusion, intelligent",None
+WF11168.pdf,Sensors,None,None,"energy efficiency, smart, intelligent",None
 Low-Power_Distributed_Sensor_Network_for_Wildfire_Detection.pdf,Sensors,None,None,"signal processing, data transmission",None
+Forest_Fire_Detection_using_Computer_Vision.pdf,PDE-only,objective function,None,None,"arnumber=7414773, isnumber=7414696, arnumber=8408086, isnumber=8407034"
 Survivability_in_Wireless_Sensor_Networks.pdf,Neither,None,None,None,None
-Wildfire_Detection_and_Avoidance_of_false_Alarm_Using_Densenet.pdf,SDE-only,None,statistical analysis,fusion,None
-Integrated_Wireless_Sensor_Network_and_Machine_Learning_Algorithm_Based_Forest_Fire_Detection_System.pdf,SDE-only,None,machine learning model,data transmission,None
-2D_coverage_analysis_of_sensor_networks_with_random_node_deployment.pdf,Sensors,None,None,signal processing,None
+Wildfire_Detection_and_Avoidance_of_false_Alarm_Using_Densenet.pdf,SDE-only,None,statistical analysis,"fusion, smart",None
+Integrated_Wireless_Sensor_Network_and_Machine_Learning_Algorithm_Based_Forest_Fire_Detection_System.pdf,SDE-only,None,machine learning model,"data transmission, smart, intelligent",None
+2D_coverage_analysis_of_sensor_networks_with_random_node_deployment.pdf,Sensors,None,None,"signal processing, smart, intelligent",None
+Mapping_of_Burnt_area_and_Burnt_Severity_using_Landsat_8_Images_A_Case_Study_of_Bandipur_forest_Fire_Region_of_Karnataka_state_India.pdf,Sensors,None,None,spatial resolution,None
 Forest_Fire_Detection_and_Prediction__Survey.pdf,SDE-only,None,"predictive model, risk assessment",None,None
-1-s2.0-S0198971512000300-main.pdf,Sensors,None,None,"fusion, energy efficiency, data transmission",None
-Cloud_Assisted_IOT_Enabled_Forest_Fire_Detection_System.pdf,Neither,None,None,None,None
+Forest_Fire_Monitoring_Through_a_Network_of_Aerial_Drones_and_Sensors.pdf,Sensors,None,None,intelligent,None
+1-s2.0-S0198971512000300-main.pdf,Sensors,None,None,"fusion, energy efficiency, data transmission, smart",None
+Cloud_Assisted_IOT_Enabled_Forest_Fire_Detection_System.pdf,Sensors,None,None,"smart, intelligent",None
 Forest_Fire_Monitoring_System_Based_on_UAV_Team_Remote_Sensing_and_Image_Processing.pdf,SDE-only,None,"control system, decision support system","signal processing, fusion",None
-Early_Forest_Fire_Prediction_System_Using_Wireless_Sensor_Network (1).pdf,Neither,None,None,None,None
-The_Deterministic_Sensor_Deployment_Problem_for_Barrier_Coverage_in_WSNs_With_Irregular_Shape_Areas.pdf,PDE-only,"problem formulation, objective function",None,energy efficiency,"upbound=Len c, s j =1, s =2, The stationary point that
+A_convex_hull-based_approximation_of_forest_fire_shape_with_distributed_wireless_sensor_networks.pdf,PDE-only,physical phenomena,None,fusion,"cancelled if c = 360º, c p= 360º removeTL, end points no end
+no removed from
+c = 360º
+p PL, t = TOA, t = 1, Radius = 1, Radius = 2, Radius = 3, Radius = 4, Radius = 5
+Fig"
+Early_Forest_Fire_Prediction_System_Using_Wireless_Sensor_Network (1).pdf,Sensors,None,None,"smart, intelligent",None
+The_Deterministic_Sensor_Deployment_Problem_for_Barrier_Coverage_in_WSNs_With_Irregular_Shape_Areas.pdf,PDE-only,"problem formulation, objective function",None,"energy efficiency, smart, intelligent","upbound=Len c, s j =1, s =2, The stationary point that
 sensor and terminator sensor of the barrier are respectively
 occurs at x = 0 is an inflection point, y p = B A x, p =GetStart, p =GetTerminal, TurningSet =GetInflection, ConvexPolygon=ConvexHull, SideSet=SideFind, p intersect= GetIntersect, p l_start = GetStart, p l_terminal= GetTerminal, p l_turning= FindTurning, start = p l_start, terminal = p l_turning, start = p, terminal = p l_terminal, SideSet = SideSet, Because l = 150, we create one straight line selected from the area left of the linear equation x = 150, untilthestraightline the linear equation x = 150, the point selected on the right of x = 150 causes the
 intersectionwith the entryside or the exitside, ld=W, le=L, SIMULATIONPARAMETERS rier in varied boundaries of the irregular shape areas with
@@ -51,63 +64,68 @@ as l e, = L, when the boundary W = 200 units of distance, ld=W, le=L, ld=W, le=2
 e e
 and W = 200 units of distance, the Euclidean distance of the
 when given the length of the barrier l = L, 2 and l = entry side is fixed at l, = L, we can obtain the side is set to l = W, ld=W, le=L, 13 are fixed at l = L, given L = 200 units of distance with a probabilistic sensing model in irregular shape areas, and W = 200 units of distance, when l = W"
-Spot_Fire_An_Intelligent_Forest_Fire_Detection_System_Design_With_Machine_Learning.pdf,SDE-only,None,"machine learning model, control system",spatial resolution,None
+Spot_Fire_An_Intelligent_Forest_Fire_Detection_System_Design_With_Machine_Learning.pdf,SDE-only,None,"machine learning model, control system","spatial resolution, smart, intelligent",None
 Self-organizing_routing_protocol_to_achieve_QoS_in_wireless_sensor_network_for_forest_fire_monitoring.pdf,Neither,None,None,None,None
-Advanced_Forest_Fire_Alert_System_with_Real-time_GPS_Location_Tracking.pdf,Neither,None,None,None,None
-IoT_Enabled_Forest_Fire_Detection_and_Early_Warning_System (1).pdf,Neither,None,None,None,None
+Advanced_Forest_Fire_Alert_System_with_Real-time_GPS_Location_Tracking.pdf,Sensors,None,None,"smart, intelligent",None
+IoT_Enabled_Forest_Fire_Detection_and_Early_Warning_System (1).pdf,Sensors,None,None,"smart, intelligent",None
 Integrating_Forest_Fire_Detection_with_Wireless_Sensor_Network_Based_on_Long_Range_Radio.pdf,Sensors,None,None,data transmission,None
-Adaptive_Weighted_Fusion_Algorithm_for_Monitoring_System_of_Forest_Fire_Based_on_Wireless_Sensor_Networks.pdf,SDE-only,None,statistical analysis,fusion,None
-Wireless_Sensor_Network_Framework_for_Early_Detection_and_Warning_of_Forest_Fire (1).pdf,Sensors,None,None,data transmission,None
+Adaptive_Weighted_Fusion_Algorithm_for_Monitoring_System_of_Forest_Fire_Based_on_Wireless_Sensor_Networks.pdf,SDE-only,None,statistical analysis,"fusion, intelligent",None
+Wireless_Sensor_Network_Framework_for_Early_Detection_and_Warning_of_Forest_Fire (1).pdf,Sensors,None,None,"data transmission, smart, intelligent",None
 3419249.3421239.pdf,Neither,None,None,None,None
 Forest_fire_early_detection_system_design_utilising_the_WSN_simulator.pdf,Sensors,None,None,"sensor placement, fusion, energy efficiency, data transmission",None
-1-s2.0-S0301479720303832-main.pdf,SDE-only,None,risk assessment,spatial resolution,None
-IoT_Enabled_Forest_Fire_Detection_and_Early_Warning_System.pdf,Neither,None,None,None,None
-2964284.2976761.pdf,Neither,None,None,None,None
-Forest_Wild_Fire_Detection_using_Deep_Learning_Approach.pdf,SDE-only,None,machine learning model,None,None
+1-s2.0-S0301479720303832-main.pdf,SDE-only,None,risk assessment,"spatial resolution, smart",None
+IoT_Enabled_Forest_Fire_Detection_and_Early_Warning_System.pdf,Sensors,None,None,"smart, intelligent",None
+2964284.2976761.pdf,Sensors,None,None,smart,None
+Forest_Wild_Fire_Detection_using_Deep_Learning_Approach.pdf,SDE-only,None,machine learning model,smart,None
 Forest_Fire_Detection_using_LoRa_Wireless_Mesh_Topology (1).pdf,Neither,None,None,None,None
-Forest_Fire_Detection_Techniques_Based_on_IoT_Technology_Review.pdf,PDE-only,objective function,None,data transmission,"SEt = the total
+Forest_Fire_Detection_Techniques_Based_on_IoT_Technology_Review.pdf,PDE-only,objective function,None,"data transmission, smart, intelligent","SEt = the total
 E, 𝑅2=1, P=M, i= 1"
-Communication_Perspective_of_Wildfire_Detection_and_Suppression_A_Survey_of_Technologies_Requirements_and_Future_Directions.pdf,Sensors,None,None,"fusion, data transmission",None
+Using_Power_Infrastructures_for_Wildfire_Detection_in_California.pdf,Sensors,None,None,smart,None
+Communication_Perspective_of_Wildfire_Detection_and_Suppression_A_Survey_of_Technologies_Requirements_and_Future_Directions.pdf,Sensors,None,None,"fusion, data transmission, intelligent",None
 Design_and_Development_of_Forest_Fire_Monitoring_Terminal.pdf,Sensors,None,None,signal processing,None
 Artificial_neural_network-based_forest_fire_detection_system_using_wireless_sensor_network.pdf,Sensors,None,None,"data transmission, temporal resolution",None
 LPWA_Based_Module_for_Forest_Fire_Detection.pdf,Neither,None,None,None,None
-Monitoring_system_for_forest_fire_based_on_wireless_sensor_network.pdf,Sensors,None,None,"signal processing, data transmission",None
+Monitoring_system_for_forest_fire_based_on_wireless_sensor_network.pdf,Sensors,None,None,"signal processing, data transmission, intelligent",None
 Forest_fire_monitoring_and_detection_of_faulty_nodes_using_wireless_sensor_network.pdf,Sensors,None,None,data transmission,None
-Wireless_Sensor_Networks_for_Early_Detection_of_Forest_Fires.pdf,Neither,None,None,None,None
+Performance_on_SK-Coverage_in_WSN_of_the_Forest_Detection.pdf,Sensors,None,None,sensor placement,None
+Wireless_Sensor_Networks_for_Early_Detection_of_Forest_Fires.pdf,Sensors,None,None,smart,None
 Wireless_Sensor_Network_for_Wildfire_Detection_and_Notification_via_Walkie__Talkie_Network (1).pdf,Sensors,None,None,data transmission,None
 Wi-Fi_HaLow_Wildfire_Sound_Detector.pdf,SDE-only,None,risk assessment,fusion,None
-Evaluation_of_a_Wireless_Sensor_Network_for_the_Detection_of_Forest_Fires.pdf,Sensors,None,None,"sensor placement, signal processing, fusion, energy efficiency, data transmission",None
+Evaluation_of_a_Wireless_Sensor_Network_for_the_Detection_of_Forest_Fires.pdf,Sensors,None,None,"sensor placement, signal processing, fusion, energy efficiency, data transmission, smart, intelligent",None
 Early_Wildfire_Detection_using_UAVs_Integrated_with_Air_Quality_and_LiDAR_Sensors.pdf,Sensors,None,None,spatial resolution,None
 Wireless_Sensor_Routing_Protocol_Research_Based_on_Forest_Fire_Protection.pdf,Neither,None,None,None,None
-RCNN_Architecture_for_Forest_Fire_Detection.pdf,SDE-only,None,machine learning model,spatial resolution,None
-Forest_Fire_Detection_and_Warning_System_for_Disaster_Prevention.pdf,SDE-only,None,control system,None,None
+RCNN_Architecture_for_Forest_Fire_Detection.pdf,SDE-only,None,machine learning model,"spatial resolution, intelligent",None
+Forest_Fire_Detection_and_Warning_System_for_Disaster_Prevention.pdf,SDE-only,None,control system,intelligent,None
 s11235-009-9191-8.pdf,Neither,None,None,None,None
 WF14016.pdf,PDE-only,boundary conditions,None,None,$50 CA$
-Development_and_In-situ_Teaching_of_Disaster-resistant_Monitoring_System_on_Slopeland_with_Micro-weather_Stations_and_Microcontrollers.pdf,SDE-only,None,control system,None,None
-Emerging_Methods_for_Early_Detection_of_Forest_Fires_Using_Unmanned_Aerial_Vehicles_and_Lorawan_Sensor_Networks.pdf,Neither,None,None,None,None
-Design_and_research_of_a_new_energy-saving_UAV_for_forest_fire_detection.pdf,SDE-only,None,control system,"signal processing, fusion, energy efficiency",None
-Forest_Fire_Detection_in_Wireless_Sensor_Network_Using_Fuzzy_Logic.pdf,SDE-only,None,control system,fusion,None
-Reliability_analysis_of_Wireless_Sensor_Networks_for_forest_fire_detection.pdf,Neither,None,None,None,None
+Development_and_In-situ_Teaching_of_Disaster-resistant_Monitoring_System_on_Slopeland_with_Micro-weather_Stations_and_Microcontrollers.pdf,SDE-only,None,control system,intelligent,None
+Emerging_Methods_for_Early_Detection_of_Forest_Fires_Using_Unmanned_Aerial_Vehicles_and_Lorawan_Sensor_Networks.pdf,Sensors,None,None,"smart, intelligent",None
+Design_and_research_of_a_new_energy-saving_UAV_for_forest_fire_detection.pdf,SDE-only,None,control system,"signal processing, fusion, energy efficiency, intelligent",None
+A_Machine_Learning_Approach_to_Forest_Fire_Prediction_Through_Environment_Parameters.pdf,SDE-only,None,"machine learning model, hybrid model","signal processing, fusion, intelligent",None
+Forest_Fire_Detection_in_Wireless_Sensor_Network_Using_Fuzzy_Logic.pdf,SDE-only,None,control system,"fusion, intelligent",None
+Reliability_analysis_of_Wireless_Sensor_Networks_for_forest_fire_detection.pdf,Sensors,None,None,intelligent,None
 3607947.3607994.pdf,Neither,None,None,None,None
 WF07137.pdf,Neither,None,None,None,None
-A_Proposed_Methodology_to_detect_Forest_Fire.pdf,Neither,None,None,None,None
-Wireless_infrastructure_for_remote_environmental_monitoring_Deployment_and_evaluation.pdf,Sensors,None,None,data transmission,None
-IoT_and_Image_Processing_based_Forest_Monitoring_and_Counteracting_System.pdf,Neither,None,None,None,None
-FPGA_implementation_of_artificial_Neural_Network_for_forest_fire_detection_in_wireless_Sensor_Network.pdf,Sensors,None,None,fusion,None
-Computational_intelligence_applied_to_wildfire_prediction_using_wireless_sensor_networks (1).pdf,Sensors,None,None,"fusion, data transmission",None
-IoT_and_Image_Processing_based_Forest_Monitoring_and_Counteracting_System (1).pdf,Neither,None,None,None,None
+A_Proposed_Methodology_to_detect_Forest_Fire.pdf,Sensors,None,None,intelligent,None
+A_multisink-based_Continuous_Object_Tracking_in_wireless_sensor_networks_by_GIS.pdf,Sensors,None,None,"data transmission, smart",None
+Wireless_infrastructure_for_remote_environmental_monitoring_Deployment_and_evaluation.pdf,Sensors,None,None,"data transmission, intelligent",None
+IoT_and_Image_Processing_based_Forest_Monitoring_and_Counteracting_System.pdf,Sensors,None,None,"smart, intelligent",None
+FPGA_implementation_of_artificial_Neural_Network_for_forest_fire_detection_in_wireless_Sensor_Network.pdf,Sensors,None,None,"fusion, smart",None
+Computational_intelligence_applied_to_wildfire_prediction_using_wireless_sensor_networks (1).pdf,Sensors,None,None,"fusion, data transmission, intelligent",None
+IoT_and_Image_Processing_based_Forest_Monitoring_and_Counteracting_System (1).pdf,Sensors,None,None,"smart, intelligent",None
 System_based_on_sensor_networks_for_application_in_forest_fire_prevention.pdf,Neither,None,None,None,None
 Application_of_Convolutional_Neural_Networks_For_Wild_Fire_Detection.pdf,Sensors,None,None,data transmission,None
-Wireless_Sensor_Systems_for_Space_and_Extreme_Environments_A_Review.pdf,Sensors,None,None,"energy efficiency, data transmission, error correction, distributed sensing",None
-Real-time_Forest_Fire_Detection_and_Alert_System_Using_Wireless_Sensor_Networks_and_Solar_Energy (1).pdf,Sensors,None,None,data transmission,None
-Adding_conditional_branching_operation_to_SNQL_For_Sensor_Database.pdf,Sensors,None,None,"data transmission, networked sensors",None
-Dynamic_and_Energy_Efficient_Data_Traffic_Scheduling_for_Earlier_Forest_Fire_Detection_using_WSN.pdf,Sensors,None,None,"software-defined, energy efficiency, data transmission",None
-Development_of_Survival_Path_Routing_Protocol_for_Scalable_Wireless_Sensor_Networks.pdf,Sensors,None,None,"fusion, energy efficiency",None
-Optimal_fireline_generation_for_wildfire_fighting_in_uncertain_and_heterogeneous_environment.pdf,SDE-only,None,"optimization technique, risk assessment, decision support system",None,None
+Wireless_Sensor_Systems_for_Space_and_Extreme_Environments_A_Review.pdf,Sensors,None,None,"energy efficiency, data transmission, error correction, distributed sensing, smart, intelligent",None
+Real-time_Forest_Fire_Detection_and_Alert_System_Using_Wireless_Sensor_Networks_and_Solar_Energy (1).pdf,Sensors,None,None,"data transmission, smart",None
+Adding_conditional_branching_operation_to_SNQL_For_Sensor_Database.pdf,Sensors,None,None,"data transmission, networked sensors, smart",None
+Dynamic_and_Energy_Efficient_Data_Traffic_Scheduling_for_Earlier_Forest_Fire_Detection_using_WSN.pdf,Sensors,None,None,"software-defined, energy efficiency, data transmission, smart",None
+Development_of_Survival_Path_Routing_Protocol_for_Scalable_Wireless_Sensor_Networks.pdf,Sensors,None,None,"fusion, energy efficiency, smart",None
+Optimal_fireline_generation_for_wildfire_fighting_in_uncertain_and_heterogeneous_environment.pdf,SDE-only,None,"optimization technique, risk assessment, decision support system",intelligent,None
+Machine_Learning-Based_Forest_Fire_Forecasting_Mitigating_Environmental_Hazards.pdf,SDE-only,None,machine learning model,None,None
 3576842.3589180.pdf,Neither,None,None,None,None
-Creation_of_an_FPGA-WSN-based_Forest_Fire_Alert_System_using_Data-Driven_Attribute_Relationship_Determination.pdf,Neither,None,None,None,None
-A_Guide_Towards_Implementing_an_Effective_Forest_Fire_Detection_System_Key_Factors_and_Research_Gaps (1).pdf,Sensors,None,None,"reconfigurable, energy efficiency, data transmission",None
-A_Survey_of_Multi-Objective_Optimization_in_Wireless_Sensor_Networks_Metrics_Algorithms_and_Open_Problems.pdf,Both PDE and SDE,objective function,decision support system,"signal processing, fusion, energy efficiency, data transmission","which is divided into G = xy rectangular
+Creation_of_an_FPGA-WSN-based_Forest_Fire_Alert_System_using_Data-Driven_Attribute_Relationship_Determination.pdf,Sensors,None,None,intelligent,None
+A_Guide_Towards_Implementing_an_Effective_Forest_Fire_Detection_System_Key_Factors_and_Research_Gaps (1).pdf,Sensors,None,None,"reconfigurable, energy efficiency, data transmission, smart",None
+A_Survey_of_Multi-Objective_Optimization_in_Wireless_Sensor_Networks_Metrics_Algorithms_and_Open_Problems.pdf,Both PDE and SDE,objective function,decision support system,"signal processing, fusion, energy efficiency, data transmission, smart, intelligent","which is divided into G = xy rectangular
 isnormallydefinedwithrespecttothesensingrangeofasen, T =minT, y
 f
 con
@@ -131,28 +149,30 @@ coverage and end"
 Multi-AI_Based_Wireless_Sensor_Node_for_Forest_Fire_Detection.pdf,Neither,None,None,None,None
 Forest_fire_monitoring_system_based_on_aerial_image.pdf,Neither,None,None,None,None
 Power_Line_Coupling_Power_Supply_for_Early_Wildfire_Detection_Sensor.pdf,Neither,None,None,None,None
-Developing_an_efficient_framework_for_real_time_monitoring_of_forest_fire_using_wireless_sensor_network (1).pdf,Sensors,None,None,"physical parameters, fusion",None
+Developing_an_efficient_framework_for_real_time_monitoring_of_forest_fire_using_wireless_sensor_network (1).pdf,Sensors,None,None,"physical parameters, fusion, smart",None
 mass-ghs07.pdf,Sensors,None,None,sensor accuracy,None
-Current_Status_of_Micro_Nanosensors_and_Their_Potential_Applicability_to_the_Prevention_and_Early_Detection_of_Forest_Fires.pdf,SDE-only,None,risk assessment,"data transmission, spatial resolution, temporal resolution",None
-An_insight_to_forest_fire_detection_techniques_using_wireless_sensor_networks (1).pdf,SDE-only,None,optimization technique,"fusion, data transmission",None
-1410077.1410097.pdf,Neither,None,None,None,None
-An_IoT_and_Random_Forest-DT-Based_Early_Enhanced_Forest_Fire_Detection_in_Large_and_Small_Targets.pdf,Sensors,None,None,fusion,None
+Current_Status_of_Micro_Nanosensors_and_Their_Potential_Applicability_to_the_Prevention_and_Early_Detection_of_Forest_Fires.pdf,SDE-only,None,risk assessment,"data transmission, spatial resolution, temporal resolution, smart",None
+An_insight_to_forest_fire_detection_techniques_using_wireless_sensor_networks (1).pdf,SDE-only,None,optimization technique,"fusion, data transmission, intelligent",None
+1410077.1410097.pdf,Sensors,None,None,intelligent,None
+An_IoT_and_Random_Forest-DT-Based_Early_Enhanced_Forest_Fire_Detection_in_Large_and_Small_Targets.pdf,Sensors,None,None,"fusion, smart",None
 1287767.1287785.pdf,Neither,None,None,None,None
 3611314.3616067.pdf,Neither,None,None,None,None
-IoTFog_Enabled_Framework_for_Forest_Fire_Management_System.pdf,SDE-only,None,"statistical analysis, risk assessment",energy efficiency,None
-Video_Based_Forest_Fire_and_Smoke_Detection_Using_YoLo_and_CNN.pdf,Neither,None,None,None,None
+IoTFog_Enabled_Framework_for_Forest_Fire_Management_System.pdf,SDE-only,None,"statistical analysis, risk assessment","energy efficiency, smart",None
+Video_Based_Forest_Fire_and_Smoke_Detection_Using_YoLo_and_CNN.pdf,Sensors,None,None,smart,None
 Improved_Detection_of_Small-Scale_Forest_Fires_in_the_Mediterranean_Region_from_Sentinel-1_and_Sentinel-2_Time_Series.pdf,Neither,None,None,None,None
 Proposition_of_low-cost_wireless_sensor_network_for_real-time_monitoring_and_early_wildfire_detection_in_Lebanons_forests.pdf,SDE-only,None,statistical analysis,data transmission,None
-IOT_based_Novel_speedy_Detection_of_Forest_fire_using_Sensors_with_improved_accuracy_by_sensing_Temperature_and_Atmospheric_Carbon_Dioxide_Level_using_Node_Microcontroller_Unit_in_comparison_with.pdf,SDE-only,None,statistical analysis,error correction,None
-Spectral_analysis_of_forest_fire_noise_for_early_detection_using_wireless_sensor_networks.pdf,SDE-only,None,decision support system,data transmission,None
+IOT_based_Novel_speedy_Detection_of_Forest_fire_using_Sensors_with_improved_accuracy_by_sensing_Temperature_and_Atmospheric_Carbon_Dioxide_Level_using_Node_Microcontroller_Unit_in_comparison_with.pdf,SDE-only,None,statistical analysis,"error correction, smart, intelligent",None
+Spectral_analysis_of_forest_fire_noise_for_early_detection_using_wireless_sensor_networks.pdf,SDE-only,None,decision support system,"data transmission, smart",None
+Design_and_implementation_of_a_Wireless_Sensor_Network_to_detect_forest_fires.pdf,Sensors,None,None,data transmission,None
 Wireless_communication-based_smoke_detection_system_design_for_forest_fire_monitoring.pdf,Sensors,None,None,data transmission,None
-Forest_Fire_Monitoring_using_Internet_of_Things_and_Machine_Learning.pdf,Sensors,None,None,"fusion, energy efficiency, vibration sensors",None
-A_Guide_Towards_Implementing_an_Effective_Forest_Fire_Detection_System_Key_Factors_and_Research_Gaps.pdf,Sensors,None,None,"reconfigurable, energy efficiency, data transmission",None
+Forest_Fire_Monitoring_using_Internet_of_Things_and_Machine_Learning.pdf,Sensors,None,None,"fusion, energy efficiency, vibration sensors, smart",None
+A_Guide_Towards_Implementing_an_Effective_Forest_Fire_Detection_System_Key_Factors_and_Research_Gaps.pdf,Sensors,None,None,"reconfigurable, energy efficiency, data transmission, smart",None
+Research_on_Binocular_Forest_Fire_Source_Location_and_Ranging_System.pdf,Sensors,None,None,intelligent,None
 Forest_Fire_Detection_Using_nRF24L01_Wireless_Sensor_Network_And_Prediction_by_Machine_Learning_Model.pdf,SDE-only,None,machine learning model,None,None
-Computational_intelligence_applied_to_wildfire_prediction_using_wireless_sensor_networks.pdf,Sensors,None,None,"fusion, data transmission",None
-Hardware_Implementation_of_Forest_Fire_Detection_System_using_Deep_Learning_Architectures.pdf,Sensors,None,None,"signal processing, fusion, spatial resolution",None
+Computational_intelligence_applied_to_wildfire_prediction_using_wireless_sensor_networks.pdf,Sensors,None,None,"fusion, data transmission, intelligent",None
+Hardware_Implementation_of_Forest_Fire_Detection_System_using_Deep_Learning_Architectures.pdf,Sensors,None,None,"signal processing, fusion, spatial resolution, intelligent",None
 Power_Consumption_Efficient_Routing_Protocol_for_Forest_Fire_Detection_based_on_Mobile_Sensor_Networks.pdf,Neither,None,None,None,None
-978-3-030-44685-7.pdf,Both PDE and SDE,objective function,"statistical analysis, control system, risk assessment","reconfigurable, fusion, software-defined, ultrasonic sensors, data transmission, interoperability, error correction","C=cause, E=effect, i=nRTT
+978-3-030-44685-7.pdf,Both PDE and SDE,objective function,"statistical analysis, control system, risk assessment","reconfigurable, fusion, software-defined, ultrasonic sensors, data transmission, interoperability, error correction, smart, intelligent","C=cause, E=effect, i=nRTT
 F, = i, PSY=1, β =4, 4Nodesselectedtohostacontentreplicaforβ=4replicas
 5Nodesselectedtohostacontentreplicaforβ, 5replicas
 6Nodesselectedtohostacontentreplicaforβ=6replicas, whileβ =4hassome2 FunctionalMetricstoEvaluateNetworkVulnerability, β =5, β =4, s when compared to β =5, ρ =0, ρ =0, ofthenodesforρ =0butisused
@@ -515,16 +535,19 @@ levelr =0, Atlevelr =1, the
 probabilitythatfacility j servesclienti atlevelr =1isthendeterminedgiventhat
 facilitypservesclientiatlevelr, =0byP ijkr, atlevelr =0, b =b, s =1, s =2, s =3, theidentity
 matrix P = I isusedtorepresentδ"
-A_wireless_sensor_network_for_early_forest_fire_detection_and_monitoring_as_a_decision_factor_in_the_context_of_a_complex_integrated_emergency_response_system (1).pdf,Sensors,None,None,"signal processing, data transmission",None
+A_wireless_sensor_network_for_early_forest_fire_detection_and_monitoring_as_a_decision_factor_in_the_context_of_a_complex_integrated_emergency_response_system (1).pdf,Sensors,None,None,"signal processing, data transmission, intelligent",None
 An_Acknowledgement_Based_System_for_Forest_Fire_Detection_via_Leach_Algorithm.pdf,SDE-only,None,simulation model,None,None
-A_smart_forest-fire_early_detection_sensory_system_Another_approach_of_utilizing_wireless_sensor_and_neural_networks.pdf,Sensors,None,None,temporal resolution,None
-Disaster_Management_Projects_Using_Wireless_Sensor_Networks_An_Overview.pdf,Neither,None,None,None,None
+A_smart_forest-fire_early_detection_sensory_system_Another_approach_of_utilizing_wireless_sensor_and_neural_networks.pdf,Sensors,None,None,"temporal resolution, smart, intelligent",None
+Satellite_Image_Segmentation_for_Forest_Fire_Risk_Detection_using_Gaussian_Mixture_Models.pdf,Neither,None,None,None,None
+Disaster_Management_Projects_Using_Wireless_Sensor_Networks_An_Overview.pdf,Sensors,None,None,smart,None
 ARIA_Air_Pollutants_Monitoring_Using_UAVs.pdf,Sensors,None,None,"data transmission, temporal resolution",None
+A_Forest_Fire_Detection_System_The_Meleager_Approach.pdf,Sensors,None,None,"signal processing, fusion, intelligent",None
 Forest_fire_hazard_modeling_using_hybrid_AHP_and_fuzzy_AHP_methods_using_MODIS_sensor.pdf,SDE-only,None,risk assessment,None,None
 Optimal_Band_Selection_of_Multispectral_Sensors_for_Wildfire_Detection.pdf,SDE-only,None,simulation model,"signal processing, spatial resolution",None
 3584871.3584905.pdf,Neither,None,None,None,None
-A_Smart_Forest_Fire_Detection_and_Notification_System_using_IOT_and_Machine_Learning.pdf,Sensors,None,None,fusion,None
-978-3-031-20709-9.pdf,Both PDE and SDE,"physical phenomena, initial conditions, temporal dynamics","predictive model, simulation model, control system","physical parameters, sensor placement, signal processing, fusion, software-defined, energy efficiency, data transmission, interoperability, error correction, distributed sensing, networked sensors","$50–$, ContentID=93257, key=1014, BER = 10, tÞ=count
+A_Smart_Forest_Fire_Detection_and_Notification_System_using_IOT_and_Machine_Learning.pdf,Sensors,None,None,"fusion, smart, intelligent",None
+The_Implementation_of_Communication_for_CC2430-Based_Wireless_Sensor_Network_Nodes.pdf,Sensors,None,None,"fusion, intelligent",None
+978-3-031-20709-9.pdf,Both PDE and SDE,"physical phenomena, initial conditions, temporal dynamics","predictive model, simulation model, control system","physical parameters, sensor placement, signal processing, fusion, software-defined, energy efficiency, data transmission, interoperability, error correction, distributed sensing, networked sensors, smart, intelligent","$50–$, ContentID=93257, key=1014, BER = 10, tÞ=count
 i, r = ðT, θ= arcsinð1, TheMachnumberisassumedtobeknownsincethe
 typical value for a Mach number is m = 2, π=þθþω, π=2, 3π=2, 6Þ
 i π=2þθþω, ifπ=2þθþω, θþω corresponds to the scenario where the
@@ -713,33 +736,36 @@ P ðiÞ= P ði, Angle θ = θ, yÞ= ðx, E=E0, E=g, ailatsaC
 level, doi=10, rep=rep1, type=pdf, n=Main, companyId=88116085, targetid=profileReferences 681
 EcoLogicSense, context=overtno, content=overtno, laag1=overtno682 9 WSNManufacturers
 Valarm"
+Energy_Efficient_and_Accurate_Tracking_and_Detection_of_Continuous_Objects_in_Wireless_Sensor_Networks.pdf,Sensors,None,None,"energy efficiency, data transmission, smart",None
 3576841.3585929.pdf,Neither,None,None,None,None
-An_IoT_based_Alert_System_with_Gas_Sensors_in_a_WSN_Framework_for_Evasion_of_Forest_Fire.pdf,Sensors,None,None,energy efficiency,None
-2507924.2507941.pdf,SDE-only,None,simulation model,"fusion, data transmission",None
-3234698.3234764.pdf,Neither,None,None,None,None
+An_IoT_based_Alert_System_with_Gas_Sensors_in_a_WSN_Framework_for_Evasion_of_Forest_Fire.pdf,Sensors,None,None,"energy efficiency, smart, intelligent",None
+2507924.2507941.pdf,SDE-only,None,simulation model,"fusion, data transmission, smart",None
+3234698.3234764.pdf,Sensors,None,None,smart,None
 Performance_evaluation_of_routing_protocols_for_wireless_sensor_networks_in_forest_fire_detection_application (1).pdf,Sensors,None,None,data transmission,None
 Randomized_k-Coverage_Algorithms_For_Dense_Sensor_Networks.pdf,Sensors,None,None,fusion,None
-A_forest_fire_prediction_system_based_on_rechargeable_wireless_sensor_networks.pdf,Neither,None,None,None,None
-Using_Wireless_Sensor_Network_for_Wildfire_detection._A_discrete_event_approach_of_environmental_monitoring_tool.pdf,Sensors,None,None,networked sensors,None
-A_review_on_early_forest_fire_detection_using_IoT-enabled_WSN (1).pdf,Sensors,None,None,"signal processing, interoperability",None
+A_forest_fire_prediction_system_based_on_rechargeable_wireless_sensor_networks.pdf,Sensors,None,None,intelligent,None
+Using_Wireless_Sensor_Network_for_Wildfire_detection._A_discrete_event_approach_of_environmental_monitoring_tool.pdf,Sensors,None,None,"networked sensors, smart",None
+A_review_on_early_forest_fire_detection_using_IoT-enabled_WSN (1).pdf,Sensors,None,None,"signal processing, interoperability, smart",None
 Forest_Fire_Warning_System_Based_on_GIS_and_WSNs.pdf,SDE-only,None,control system,fusion,None
 Performance_evaluation_of_routing_protocols_for_wireless_sensor_networks_in_forest_fire_detection_application.pdf,Sensors,None,None,data transmission,None
-Communication_Perspective_of_Wildfire_Detection_and_Suppression_A_Survey_of_Technologies_Requirements_and_Future_Directions (1).pdf,Sensors,None,None,"fusion, data transmission",None
+Communication_Perspective_of_Wildfire_Detection_and_Suppression_A_Survey_of_Technologies_Requirements_and_Future_Directions (1).pdf,Sensors,None,None,"fusion, data transmission, intelligent",None
 Multi-AI_Based_Wireless_Sensor_Node_for_Forest_Fire_Detection (1).pdf,Neither,None,None,None,None
-Wireless_Sensor_Network_Framework_for_Early_Detection_and_Warning_of_Forest_Fire.pdf,Sensors,None,None,data transmission,None
-Internet-of-Things_Enabled_Forest_Fire_Detection_System.pdf,Sensors,None,None,data transmission,None
-1869983.1869997.pdf,Neither,None,None,None,None
+A_Method_of_Automatically_Extracting_Forest_Fire_Burned_Areas_Using_Gf-1_Remote_Sensing_Images.pdf,Neither,None,None,None,None
+Wireless_Sensor_Network_Framework_for_Early_Detection_and_Warning_of_Forest_Fire.pdf,Sensors,None,None,"data transmission, smart, intelligent",None
+Internet-of-Things_Enabled_Forest_Fire_Detection_System.pdf,Sensors,None,None,"data transmission, smart, intelligent",None
+1869983.1869997.pdf,Sensors,None,None,smart,None
 Firoxio_Forest_fire_detection_and_alerting_system.pdf,Sensors,None,None,"data transmission, temporal resolution",None
-Forest_fire_detection_system_based_on_wireless_sensor_network.pdf,SDE-only,None,control system,"signal processing, fusion",None
+Forest_fire_detection_system_based_on_wireless_sensor_network.pdf,SDE-only,None,control system,"signal processing, fusion, intelligent",None
 Forest_Fire_Detection_using_Convolutional_Neural_Network_Model.pdf,SDE-only,None,machine learning model,None,None
-Low_Cost_LoRa_based_Network_for_Forest_Fire_Detection.pdf,Sensors,None,None,signal processing,None
-Real-time_Forest_Fire_Detection_and_Alert_System_Using_Wireless_Sensor_Networks_and_Solar_Energy.pdf,Sensors,None,None,data transmission,None
+Low_Cost_LoRa_based_Network_for_Forest_Fire_Detection.pdf,Sensors,None,None,"signal processing, smart",None
+Real-time_Forest_Fire_Detection_and_Alert_System_Using_Wireless_Sensor_Networks_and_Solar_Energy.pdf,Sensors,None,None,"data transmission, smart",None
 1-s2.0-S0048969716318666-main.pdf,SDE-only,None,statistical analysis,None,None
 1-s2.0-S1319157817302707-main.pdf,Sensors,None,None,energy efficiency,None
 NWCG Standards for Fire Weather Stations_2019_1.pdf,SDE-only,None,decision support system,data transmission,None
-3293614.3293615.pdf,Neither,None,None,None,None
-Application_of_WSNs_for_Detection_Land_and_Forest_Fire_in_Riau_Province_Indonesia.pdf,Sensors,None,None,"reconfigurable, data transmission",None
-Low-Cost_System_for_Early_Detection_and_Deployment_of_Countermeasures_Against_Wild_Fires.pdf,Sensors,None,None,"thermal sensors, spatial resolution",None
+3293614.3293615.pdf,Sensors,None,None,smart,None
+Application_of_WSNs_for_Detection_Land_and_Forest_Fire_in_Riau_Province_Indonesia.pdf,Sensors,None,None,"reconfigurable, data transmission, smart",None
+Fire_Detection_Systems_by_Using_Wireless_Sensors.pdf,SDE-only,None,control system,"signal processing, data transmission, smart, intelligent",None
+Low-Cost_System_for_Early_Detection_and_Deployment_of_Countermeasures_Against_Wild_Fires.pdf,Sensors,None,None,"thermal sensors, spatial resolution, smart",None
 3608100.pdf,Sensors,None,None,sensor accuracy,None
 3576842.3582381.pdf,PDE-only,physical phenomena,None,None,"ame x = t Anomaly Probability
 Scenario 1 Wind Model a cell L Se cn ng, ka inw ga ure nig tr sa ap rh
@@ -750,15 +776,20 @@ e
 𝑒
 𝑐𝑜𝑣
 =G, $110and$"
-Current_Status_of_Micro_Nanosensors_and_Their_Potential_Applicability_to_the_Prevention_and_Early_Detection_of_Forest_Fires (1).pdf,SDE-only,None,risk assessment,"data transmission, spatial resolution, temporal resolution",None
-System_Architecture_for_a_Wireless_Sensor_Network_for_Sustainable_Agriculture_Forestry_and_Green_Spaces_in_Smart_Cities.pdf,SDE-only,None,control system,None,None
+Simulation_research_on_control_system_and_ballistic_of_a_remote_forest_fire_fighting_cannon.pdf,SDE-only,None,control system,None,None
+Current_Status_of_Micro_Nanosensors_and_Their_Potential_Applicability_to_the_Prevention_and_Early_Detection_of_Forest_Fires (1).pdf,SDE-only,None,risk assessment,"data transmission, spatial resolution, temporal resolution, smart",None
+Disaster_Management_Projects_Using_Wireless_Sensor_Networks_An_Overview (1).pdf,Sensors,None,None,smart,None
+Remote_modification_of_sensor_mote_design_for_next-generation_Wireless_Sensor_Networks.pdf,Sensors,None,None,"reconfigurable, smart",None
+System_Architecture_for_a_Wireless_Sensor_Network_for_Sustainable_Agriculture_Forestry_and_Green_Spaces_in_Smart_Cities.pdf,SDE-only,None,control system,smart,None
 s41598-021-03882-9.pdf,SDE-only,None,machine learning model,"fusion, data transmission",None
 electronics-09-00893-v2.pdf,Sensors,None,None,fusion,None
 From_cellular_networks_to_the_garden_hose_Advances_in_rainfall_monitoring_via_cellular_power_measurements.pdf,Neither,None,None,None,None
 1-s2.0-S0048969717334320-main.pdf,Neither,None,None,None,None
-An_Intelligent_Framework_for_Wireless_Sensor_Networks_in_Environmental_Monitoring.pdf,Sensors,None,None,"fusion, energy efficiency, ultrasonic sensors, data transmission",None
+An_Intelligent_Framework_for_Wireless_Sensor_Networks_in_Environmental_Monitoring.pdf,Sensors,None,None,"fusion, energy efficiency, ultrasonic sensors, data transmission, smart, intelligent",None
 1995456.1995880.pdf,SDE-only,None,"simulation model, data assimilation",spatial resolution,None
-Energy-Efficient_Algorithm_for_Robot-Assisted_Sensor_Deployment.pdf,PDE-only,problem formulation,None,sensor placement,"assisted sensor deployment
+Forest_Fire_Detection_and_Temperature_Monitoring_Alert_using_IoT_and_Machine_Learning_Algorithm.pdf,Sensors,None,None,"signal processing, smart, intelligent",None
+Selective_Sleep-_awake_Scheduling_in_WSN_-Cloud_Integration.pdf,Sensors,None,None,intelligent,None
+Energy-Efficient_Algorithm_for_Robot-Assisted_Sensor_Deployment.pdf,PDE-only,problem formulation,None,"sensor placement, smart, intelligent","assisted sensor deployment
 capacity = Maximum capacity of the robot
 algorithms to find the best algorithm under different simulated
 Output, Let
@@ -769,40 +800,48 @@ Algorithm, if load = capacity
 3, totalDist = totalDist, load=capacity
 Greedy, load = load, Pcur = Pnew
 maximum deficit cell"
-Wireless_Sensor_Networks_for_Natural_Disaster_Management_-_A_Survey.pdf,SDE-only,None,control system,"physical parameters, reconfigurable",None
+Forest_Fire_Detection_using_WSOA_Based_Geodesic_Distance_Encoding_Segmentation_Model_in_Smart_IoT.pdf,Sensors,None,None,"signal processing, fusion, smart, intelligent",None
+Wireless_Sensor_Networks_for_Natural_Disaster_Management_-_A_Survey.pdf,SDE-only,None,control system,"physical parameters, reconfigurable, smart, intelligent",None
 A_UAV_Forest_Fire_Detection_Method_Based_on_Dual-Light_Vision_Images.pdf,Sensors,None,None,adaptive thresholding,None
 Energy_optimization_at_the_MAC_layer_for_a_forest_fire_monitoring_wireless_sensor_network.pdf,Sensors,None,None,data transmission,None
-Model_for_Advanced_Sensor_Placement_in_Wildfire_Detection_Systems.pdf,Sensors,None,None,"sensor placement, reconfigurable, energy efficiency, data transmission",None
+Optimization_Of_Sugeno_Fuzzy_Logic_Based_On_Wireless_Sensor_Network_In_Forest_Fire_Monitoring_System.pdf,Sensors,None,None,data transmission,None
+A_UAV_with_Autonomy_Pattern_Recognition_for_Forest_Fire_Prevention_and_AI_for_Providing_Advice_to_Firefighters_Fighting_Forest_Fires.pdf,Sensors,None,None,"error correction, intelligent",None
+Model_for_Advanced_Sensor_Placement_in_Wildfire_Detection_Systems.pdf,Sensors,None,None,"sensor placement, reconfigurable, energy efficiency, data transmission, intelligent",None
 A_forest_fire_monitoring_system_based_on_GPRS_and_ZigBee_wireless_sensor_network.pdf,SDE-only,None,control system,data transmission,None
 Transaction-Level_Modeling_for_Sensor_Networks_Using_SystemC.pdf,Sensors,None,None,"vibration sensors, error correction",None
-Forest_Fire_Detection_using_Nine-Layer_Deep_Convolutional_Neural_Network.pdf,Neither,None,None,None,None
+Forest_Fire_Detection_using_Nine-Layer_Deep_Convolutional_Neural_Network.pdf,Sensors,None,None,intelligent,None
 Real-time_forest_fire_detection_with_wireless_sensor_networks.pdf,SDE-only,None,"risk assessment, adaptive algorithm",None,None
+Enhancing_Forest_Safety_Sensor-Assisted_Detection_and_Prevention_of_Wildfires.pdf,Sensors,None,None,"smart, intelligent",None
 An_Improved_Algorithm_Based_on_D-S_Evidence_Theory_for_Accurate_Wildfire_Detection.pdf,Sensors,None,None,fusion,None
+SAMRAKSHA__Developing_a_real-time_and_automatic_early_warning_system_for_forest_fire.pdf,Sensors,None,None,signal processing,None
 Forest_Fire_Detection_for_Edge_Devices.pdf,Neither,None,None,None,None
-Persistent_Cooperative_Monitoring_System_of_Disaster_Areas_Using_UAV_Networks.pdf,SDE-only,None,simulation model,None,None
+Persistent_Cooperative_Monitoring_System_of_Disaster_Areas_Using_UAV_Networks.pdf,SDE-only,None,simulation model,smart,None
 Coverage_and_Deployment_Algorithms_in_Wireless_Sen.pdf,Neither,None,None,None,None
-HGA-based_Auto-tuning_of_Peltier_coolers_in_PAIS_project_New_environmental_monitoring_and_early_wildfire_detection_system.pdf,Both PDE and SDE,"problem formulation, objective function",control system,None,None
-Wildland_Fire_Detection_and_Monitoring_Using_a_Drone-Collected_RGB_IR_Image_Dataset.pdf,SDE-only,None,data assimilation,"fusion, spatial resolution",None
-An_efficient_and_optimal_clustering_algorithm_for_real-time_forest_fire_prediction_with.pdf,Sensors,None,None,"signal processing, data transmission",None
-Research_on_Forest_Fire_Monitoring_Quality_Variation_with_Wireless_Sensor_Node_Density.pdf,Neither,None,None,None,None
-s10479-023-05657-z.pdf,PDE-only,objective function,None,"energy efficiency, data transmission",None
-s11042-023-16647-5.pdf,Sensors,None,None,"fusion, software-defined, data transmission",None
-Wireless-Sensor_Network_Topology_Optimization_in_Complex_Terrain_A_Bayesian_Approach.pdf,Neither,None,None,None,None
+HGA-based_Auto-tuning_of_Peltier_coolers_in_PAIS_project_New_environmental_monitoring_and_early_wildfire_detection_system.pdf,Both PDE and SDE,"problem formulation, objective function",control system,intelligent,None
+Wildland_Fire_Detection_and_Monitoring_Using_a_Drone-Collected_RGB_IR_Image_Dataset.pdf,SDE-only,None,data assimilation,"fusion, spatial resolution, smart, intelligent",None
+An_efficient_and_optimal_clustering_algorithm_for_real-time_forest_fire_prediction_with.pdf,Sensors,None,None,"signal processing, data transmission, smart, intelligent",None
+Research_on_Forest_Fire_Monitoring_Quality_Variation_with_Wireless_Sensor_Node_Density.pdf,Sensors,None,None,smart,None
+s10479-023-05657-z.pdf,PDE-only,objective function,None,"energy efficiency, data transmission, intelligent",None
+s11042-023-16647-5.pdf,Sensors,None,None,"fusion, software-defined, data transmission, smart, intelligent",None
+Wireless-Sensor_Network_Topology_Optimization_in_Complex_Terrain_A_Bayesian_Approach.pdf,Sensors,None,None,smart,None
 1-s2.0-S0301479717309817-main.pdf,Neither,None,None,None,None
+Intelligent_Framework_Using_IoT-Based_WSNs_for_Wildfire_Detection.pdf,Sensors,None,None,"fusion, software-defined, energy efficiency, data transmission, smart, intelligent",None
+Simple_Digital_Design_to_Optimize_TDOA_Algorithm_Reducing_Energy_Consumption_WSN_for_Forest_Fire_Localization.pdf,Sensors,None,None,signal processing,None
 2896387.2896450.pdf,Sensors,None,None,energy efficiency,None
-Modeling_of_Wireless_Sensor_Networks_for_Detection_Land_and_Forest_Fire_Hotspot.pdf,Sensors,None,None,"signal processing, reconfigurable, data transmission",None
-Early_Forest_Fire_Prediction_System_Using_Wireless_Sensor_Network.pdf,Neither,None,None,None,None
+Modeling_of_Wireless_Sensor_Networks_for_Detection_Land_and_Forest_Fire_Hotspot.pdf,Sensors,None,None,"signal processing, reconfigurable, data transmission, smart",None
+Early_Forest_Fire_Prediction_System_Using_Wireless_Sensor_Network.pdf,Sensors,None,None,"smart, intelligent",None
 A_Simple_Grid-Based_Localization_Technique_in_Wireless_Sensor_Networks_for_Forest_Fire_Detection.pdf,Neither,None,None,None,None
 Low-Power_Distributed_Sensor_Network_for_Wildfire_Detection (1).pdf,Sensors,None,None,"signal processing, data transmission",None
 Forest_Fire_Detection_and_Guiding_Animals_to_a_Safe_Area_by_Using_Sensor_Networks_and_Sound.pdf,Neither,None,None,None,None
-1878537.1878539.pdf,SDE-only,None,"simulation model, decision support system",None,None
-ICSE-SEIS.2017.8.pdf,Neither,None,None,None,None
-Application_of_wireless_sensor_networks_in_forest_fire_detection_under_uncertainty.pdf,SDE-only,None,risk assessment,signal processing,None
-Environmental_Intelligence_Based_on_Advanced_Sensor_Networks.pdf,Neither,None,None,None,None
+1878537.1878539.pdf,SDE-only,None,"simulation model, decision support system",intelligent,None
+ICSE-SEIS.2017.8.pdf,Sensors,None,None,smart,None
+Application_of_wireless_sensor_networks_in_forest_fire_detection_under_uncertainty.pdf,SDE-only,None,risk assessment,"signal processing, intelligent",None
+Environmental_Intelligence_Based_on_Advanced_Sensor_Networks.pdf,Sensors,None,None,intelligent,None
 Sensor_Deployment_Strategies_for_Target_Coverage_Problems_in_Underwater_Acoustic_Sensor_Networks.pdf,Neither,None,None,None,None
-Multi_Sensor_Network_System_for_Early_Detection_and_Prediction_of_Forest_Fires_in_Southeast_Asia.pdf,Sensors,None,None,"fusion, data transmission, spatial resolution",None
-Forest_Fire_Detection_via_the_Internet_of_Things-Based_Systems.pdf,SDE-only,None,risk assessment,signal processing,None
-A_Novel_Accurate_Forest_Fire_Detection_System_Using_Wireless_Sensor_Networks.pdf,Sensors,None,None,fusion,None
+Multi_Sensor_Network_System_for_Early_Detection_and_Prediction_of_Forest_Fires_in_Southeast_Asia.pdf,Sensors,None,None,"fusion, data transmission, spatial resolution, smart",None
+Forest_Fire_Detection_via_the_Internet_of_Things-Based_Systems.pdf,SDE-only,None,risk assessment,"signal processing, smart, intelligent",None
+A_Novel_Accurate_Forest_Fire_Detection_System_Using_Wireless_Sensor_Networks.pdf,Sensors,None,None,"fusion, smart, intelligent",None
+Taking_Sensor_Networks_from_the_Lab_to_the_Jungle.pdf,Neither,None,None,None,None
 forests-12-00453.pdf,PDE-only,objective function,None,None,"fh =0, forj =1, for
 j
 j =1, forj =1, nsandi =1, CD = d 1, H = max max min min ji max min, j
@@ -825,10 +864,10 @@ max
 andNSS, =50"
 An_IoT_based_Real_Time_Forest_Fire_Detection_amp_Alerting_System_Using_LoRa_Communication.pdf,Neither,None,None,None,None
 Proposition_of_low-cost_wireless_sensor_network_for_real-time_monitoring_and_early_wildfire_detection_in_Lebanons_forests (1).pdf,SDE-only,None,statistical analysis,data transmission,None
-Energy_Efficient_Routing_Protocol_in_Forest_Fire_Detection_System.pdf,SDE-only,None,decision support system,"energy efficiency, data transmission",None
-1639809.1639845.pdf,SDE-only,None,"simulation model, data assimilation",signal processing,None
+Energy_Efficient_Routing_Protocol_in_Forest_Fire_Detection_System.pdf,SDE-only,None,decision support system,"energy efficiency, data transmission, smart, intelligent",None
+1639809.1639845.pdf,SDE-only,None,"simulation model, data assimilation","signal processing, intelligent",None
 ahswn09a.pdf,Neither,None,None,None,None
-Detection_of_forest_fires_using_machine_learning_technique_A_perspective.pdf,Sensors,None,None,signal processing,None
+Detection_of_forest_fires_using_machine_learning_technique_A_perspective.pdf,Sensors,None,None,"signal processing, smart, intelligent",None
 An efficient local improvement operator for the multi-objective wireless sensor network deployment problem.pdf,Both PDE and SDE,problem formulation,statistical analysis,"sensor placement, data transmission","journalCode=geno20EngineeringOptimization
 Vol, 2 i i=1
 subjectto
@@ -852,47 +891,55 @@ since there is no crossover involved there, with
 thehighestHVvaluesobtainedforp =1, butthebestresultsaregenerallyobtainedwithp =0, MOCellwithp =1, 0andp =0, polynomialmutationwithp =1, RGXcrossoverwithp =0"
 Distributed_coverage_of_forest_fire_border_based_on_WSN.pdf,Sensors,None,None,signal processing,None
 1-s2.0-S0168192322001630-main.pdf,Sensors,None,None,"sensor accuracy, spatial resolution, temporal resolution",None
-Wireless_Sensor_Networks_for_Early_Detection_of_Forest_Fires (1).pdf,Neither,None,None,None,None
-Automated_Forest_Fire_Prediction_Systems_A_Comprehensive_Review.pdf,Sensors,None,None,fusion,None
-A_Methodology_for_Forest_Fire_Detection_and_Notification_Using_AI_and_IoT_Approaches.pdf,Sensors,None,None,"signal processing, fusion, data transmission, interoperability",None
+Wireless_Sensor_Networks_for_Early_Detection_of_Forest_Fires (1).pdf,Sensors,None,None,smart,None
+Energy-efficient_Fire_Monitoring_using_ubiquitous_sensor_network.pdf,Sensors,None,None,"energy efficiency, data transmission",None
+Automated_Forest_Fire_Prediction_Systems_A_Comprehensive_Review.pdf,Sensors,None,None,"fusion, smart, intelligent",None
+IOT_Enabled_Forest_Fire_Identification_and_Prevention_System_using_LORA.pdf,Sensors,None,None,"signal processing, data transmission, smart, intelligent",None
+A_Methodology_for_Forest_Fire_Detection_and_Notification_Using_AI_and_IoT_Approaches.pdf,Sensors,None,None,"signal processing, fusion, data transmission, interoperability, smart, intelligent",None
 Algorithm-based_Dynamic_Formal_Model_for_Forest_Fire_Detection_amp_Extinguishment_System.pdf,Neither,None,None,None,None
-Model_for_Advanced_Sensor_Placement_in_Wildfire_Detection_Systems (1).pdf,Sensors,None,None,"sensor placement, reconfigurable, energy efficiency, data transmission",None
-3227609.3227677.pdf,Neither,None,None,None,None
-Forest_Fire_Monitoring_System_and_Energy_Saving_Algorithm.pdf,Neither,None,None,None,None
+Model_for_Advanced_Sensor_Placement_in_Wildfire_Detection_Systems (1).pdf,Sensors,None,None,"sensor placement, reconfigurable, energy efficiency, data transmission, intelligent",None
+3227609.3227677.pdf,Sensors,None,None,"smart, intelligent",None
+Forest_Fire_Monitoring_System_and_Energy_Saving_Algorithm.pdf,Sensors,None,None,intelligent,None
 Trustworthiness_in_Sensor_Networks_A_Reputation-Based_Method_for_Weather_Stations.pdf,Sensors,None,None,fusion,None
-Integrating_IoT_and_Machine_Learning_for_Enhanced_Forest_Fire_Detection_and_Temperature_Monitoring.pdf,Sensors,None,None,"fusion, networked sensors",None
-Forest_Fire_identification_Harnessing_Internet_of_Things_IoT_and_Artificial_Intelligence.pdf,SDE-only,None,risk assessment,interoperability,None
-Wildfire_Detection_using_Wireless_Mesh_Network.pdf,SDE-only,None,control system,None,None
-Forest_Fire_Detection_using_Convolutional_Neural_Networks_CNN.pdf,Neither,None,None,None,None
-Data-driven_forest_fire_analysis.pdf,SDE-only,None,simulation model,signal processing,None
+A_Machine_Learning-Based_Early_Forest_Fire_Detection_System_Utilizing_Vision_and_Sensors_Fusion_Technologies.pdf,Sensors,None,None,"signal processing, fusion, smart, intelligent",None
+Integrating_IoT_and_Machine_Learning_for_Enhanced_Forest_Fire_Detection_and_Temperature_Monitoring.pdf,Sensors,None,None,"fusion, networked sensors, smart, intelligent",None
+Forest_Fire_identification_Harnessing_Internet_of_Things_IoT_and_Artificial_Intelligence.pdf,SDE-only,None,risk assessment,"interoperability, smart",None
+Wildfire_Detection_using_Wireless_Mesh_Network.pdf,SDE-only,None,control system,"smart, intelligent",None
+IoT-Enabled_CNN_for_Real-Time_Forest_Fire_Detection_Fusing_Technology_to_Safeguard_Nature.pdf,Sensors,None,None,"smart, intelligent",None
+Clustering_based_on_the_node_health_status_in_wireless_sensor_networks.pdf,Neither,None,None,None,None
+Forest_Fire_Detection_using_Convolutional_Neural_Networks_CNN.pdf,Sensors,None,None,intelligent,None
+Data-driven_forest_fire_analysis.pdf,SDE-only,None,simulation model,"signal processing, smart",None
 1582379.1582636.pdf,Sensors,None,None,networked sensors,None
 Demonstration_of_Wildfire_Detection_Using_Image_Classification_Onboard_CubeSat.pdf,Neither,None,None,None,None
-The_Monitoring_of_Host_Computer_for_Forest_Fire_Detection_System_Based_on_Wireless_Sensor_Network.pdf,Sensors,None,None,data transmission,None
+The_Monitoring_of_Host_Computer_for_Forest_Fire_Detection_System_Based_on_Wireless_Sensor_Network.pdf,Sensors,None,None,"data transmission, intelligent",None
 Fault_Detection_in_Forest_Fire_Monitoring_Using_Negative_Selection_Approach.pdf,Sensors,None,None,data transmission,None
 3293500.pdf,Neither,None,None,None,None
-A_Method_for_Forest_Fire_Monitoring_Based_on_GA-BP (1).pdf,Sensors,None,None,fusion,None
-Comparison_of_Frequency_Bands_for_Wireless_Communication_in_Forests_Using_LoRa_Modulation.pdf,Sensors,None,None,data transmission,None
-SoK_Security_and_Privacy_in_the_Age_of_Commercial_Drones.pdf,SDE-only,None,control system,"signal processing, fusion, software-defined, interoperability",None
-IoT_based_Forest_Fire_Detection_and_Protection_System.pdf,Neither,None,None,None,None
+A_Method_for_Forest_Fire_Monitoring_Based_on_GA-BP (1).pdf,Sensors,None,None,"fusion, intelligent",None
+Comparison_of_Frequency_Bands_for_Wireless_Communication_in_Forests_Using_LoRa_Modulation.pdf,Sensors,None,None,"data transmission, smart",None
+SoK_Security_and_Privacy_in_the_Age_of_Commercial_Drones.pdf,SDE-only,None,control system,"signal processing, fusion, software-defined, interoperability, smart",None
+IoT_based_Forest_Fire_Detection_and_Protection_System.pdf,Sensors,None,None,"smart, intelligent",None
 Early_Forest-Fire_Detection_by_Linear_Regression_Ridge_Regression_And_Lasso_Regression.pdf,Neither,None,None,None,None
-An_Overview_of_Detection_of_Forest_Fires_Using_Intelligent_Systems.pdf,Neither,None,None,None,None
+An_Overview_of_Detection_of_Forest_Fires_Using_Intelligent_Systems.pdf,Sensors,None,None,intelligent,None
+Optimizing_Deep_Learning_Accuracy_Visibility_Filtering_Approach_for_Early_Wildfire_Detection_in_Forest_Sensor_Images.pdf,SDE-only,None,machine learning model,smart,None
+Forest_Fire_Detection_using_Multispectral_Landsat-8_Images_and_Convolution_Neural_Network.pdf,Sensors,None,None,"fusion, spatial resolution, intelligent",None
 1-s2.0-S0168192309001944-main.pdf,PDE-only,temporal dynamics,None,None,None
-The_robot-assisted_sensor_deployment_problem_in_Wireless_Sensor_Networks.pdf,PDE-only,problem formulation,None,None,None
-An_IoT-based_Novel_Framework_for_Early_Prediction_of_Forest_Fire.pdf,Sensors,None,None,data transmission,None
+The_robot-assisted_sensor_deployment_problem_in_Wireless_Sensor_Networks.pdf,PDE-only,problem formulation,None,smart,None
+An_IoT-based_Novel_Framework_for_Early_Prediction_of_Forest_Fire.pdf,Sensors,None,None,"data transmission, smart",None
 Forest_Fire_Prediction_for_NASA_Satellite_Dataset_Using_Machine_Learning.pdf,Neither,None,None,None,None
-3D node deployment strategies prediction in wireless sensors network.pdf,Sensors,None,None,data transmission,None
-Redundant_cluster-based_routing_in_wireless_sensor_networks.pdf,SDE-only,None,control system,None,None
+3D node deployment strategies prediction in wireless sensors network.pdf,Sensors,None,None,"data transmission, smart, intelligent",None
+Redundant_cluster-based_routing_in_wireless_sensor_networks.pdf,SDE-only,None,control system,"smart, intelligent",None
 Silvanet Wildfire Sensor Datasheet.pdf,Neither,None,None,None,None
 Self-healing_Multipath_Routing_Protocol_to_assist_Wireless_Sensor_Network_based_Hazardous_Event_Monitoring.pdf,Sensors,None,None,"data transmission, real-time sensing",None
-A_Review_on_Forest_Fire_Detection_and_Monitoring_Systems.pdf,Sensors,None,None,"signal processing, fusion",None
+Reflection_Measurement_of_Fire_Over_Microwave_Band_A_Promising_Active_Method_for_Forest_Fire_Detection.pdf,Sensors,None,None,physical parameters,None
+A_Review_on_Forest_Fire_Detection_and_Monitoring_Systems.pdf,Sensors,None,None,"signal processing, fusion, smart, intelligent",None
 1901.00511.pdf,Sensors,None,None,energy efficiency,None
 A_survivability_opportunistic_routing_protocol_for_Secure_Underwater_Acoustic_Sensor_Networks.pdf,Sensors,None,None,"signal processing, software-defined",None
-Forecasting_Naturally_Occurring_Forest_Fires_using_AI_and_Machine_Learning_in_Wireless_Sensor_Networks.pdf,Neither,None,None,None,None
+Forecasting_Naturally_Occurring_Forest_Fires_using_AI_and_Machine_Learning_in_Wireless_Sensor_Networks.pdf,Sensors,None,None,"smart, intelligent",None
 Modeling_and_Analysis_of_Wildfire_Detection_using_Wireless_Sensor_Network_with_Poisson_Deployment (1).pdf,SDE-only,None,hybrid model,None,None
 WF02055.pdf,Sensors,None,None,spatial resolution,None
 WF22150.pdf,SDE-only,None,statistical analysis,None,None
 Study_of_routing_protocols_used_in_sensor_networks_for_forest_fire_detection.pdf,Sensors,None,None,interoperability,None
-3462513.pdf,Neither,None,None,None,None
+3462513.pdf,Sensors,None,None,"smart, intelligent",None
 Optimization_Based_Location_Es.pdf,PDE-only,objective function,None,fusion,"step of operation of the stationary platform using the following notation where the starting time t = 1 and the ending
 start
 time is t, = n, 𝑖𝑖=1, w𝑎𝑎er𝑖𝑖𝑖𝑖 e =cal0culated due to the fact that we compute
@@ -900,44 +947,50 @@ only one set of estimate values as the result for the entire system of quadratic
 =
 𝑚𝑚
 𝑦𝑦, 𝑖𝑖 =2, CG = Center of Gravity, m = meter"
-1-s2.0-S1877050913007126-main.pdf,Sensors,None,None,energy efficiency,None
-Detecting_and_Reporting_Forest_Fire_through_Deployment_of_Three_Dimensional_Multi-sink_Wireless_Sensor_Network.pdf,Sensors,None,None,"energy efficiency, data transmission",None
+1-s2.0-S1877050913007126-main.pdf,Sensors,None,None,"energy efficiency, smart",None
+IOT_Based_Forest_Fire_Detection_and_Extinguishing_System.pdf,SDE-only,None,control system,"sensor accuracy, data transmission",None
+Detecting_and_Reporting_Forest_Fire_through_Deployment_of_Three_Dimensional_Multi-sink_Wireless_Sensor_Network.pdf,Sensors,None,None,"energy efficiency, data transmission, smart",None
 Sensor_Deployment_and_Link_Analysis_in_Satellite_IoT_Systems_for_Wildfire_Detection.pdf,Sensors,None,None,"sensor placement, signal processing, data transmission",None
 3276774.3276792.pdf,Neither,None,None,None,None
-Forest_fire_detection_system_reliability_test_using_wireless_sensor_network_and_OpenMTC_communication_platform.pdf,Sensors,None,None,"sensor accuracy, sensor placement, data transmission",None
-Unmanned_Aerial_Sensor_Placement_for_Cluttered_Environments.pdf,Sensors,None,None,"sensor placement, fusion",None
+Forest_fire_detection_system_reliability_test_using_wireless_sensor_network_and_OpenMTC_communication_platform.pdf,Sensors,None,None,"sensor accuracy, sensor placement, data transmission, smart",None
+Circle-based_approximation_to_forest_fires_with_distributed_wireless_sensor_networks.pdf,PDE-only,physical phenomena,None,"fusion, data transmission","$$, r = 1 cell, 1419
+R² = 0"
+Wildfire_Detection_Based_on_the_Spatiotemporal_and_Spectral_Features_of_Himawari-8_Data.pdf,SDE-only,None,machine learning model,spatial resolution,None
+Unmanned_Aerial_Sensor_Placement_for_Cluttered_Environments.pdf,Sensors,None,None,"sensor placement, fusion, smart",None
+Wildfire_Detection_From_Multisensor_Satellite_Imagery_Using_Deep_Semantic_Segmentation.pdf,Sensors,None,None,fusion,None
 An_energy_efficient_framework_for_detection_and_monitoring_of_forest_fire_using_mobile_agent_in_wireless_sensor_networks.pdf,Sensors,None,None,"fusion, energy efficiency",None
 Forest_fire_detection_system_based_on_Fuzzy_Kalman_filter.pdf,SDE-only,None,control system,"fusion, data transmission",None
 Integrating_Forest_Fire_Detection_with_Wireless_Sensor_Network_Based_on_Long_Range_Radio (1).pdf,Sensors,None,None,data transmission,None
-Development_and_Experimental_Validation_of_a_LoRa_Wireless_Sensor_Network_for_Wildfire_Surveillance.pdf,Neither,None,None,None,None
+Development_and_Experimental_Validation_of_a_LoRa_Wireless_Sensor_Network_for_Wildfire_Surveillance.pdf,Sensors,None,None,smart,None
 Optimal_Wireless_Sensor_Networks_Allocation_for_Wooded_Areas_Using_Quantum-Behaved_Swarm_Optimization_Algorithms.pdf,Both PDE and SDE,objective function,optimization technique,fusion,"error
 vmax =k, each particle
 D = WEISS"
-2896387.2900323.pdf,SDE-only,None,statistical analysis,energy efficiency,None
-Real-Time_Forest_Fire_Detection_Using_IoT_and_Smart_Sensors.pdf,Sensors,None,None,"signal processing, fusion",None
+2896387.2900323.pdf,SDE-only,None,statistical analysis,"energy efficiency, smart, intelligent",None
+Real-Time_Forest_Fire_Detection_Using_IoT_and_Smart_Sensors.pdf,Sensors,None,None,"signal processing, fusion, smart, intelligent",None
 Wireless_Sensor_Network_for_Wildfire_Detection_and_Notification_via_Walkie__Talkie_Network.pdf,Sensors,None,None,data transmission,None
-3473037.pdf,Sensors,None,None,"energy efficiency, data transmission",None
-The_design_of_forest_fire_monitoring_system_based_on_wireless_sensor_network.pdf,Sensors,None,None,data transmission,None
+3473037.pdf,Sensors,None,None,"energy efficiency, data transmission, smart",None
+The_design_of_forest_fire_monitoring_system_based_on_wireless_sensor_network.pdf,Sensors,None,None,"data transmission, smart",None
 2739480.2754751.pdf,Sensors,None,None,fusion,None
-IoT_Sensor_and_Deep_Neural_Network_based_Wildfire_Prediction_System.pdf,SDE-only,None,machine learning model,None,None
-Reliability_analysis_of_Wireless_Sensor_Networks_for_forest_fire_detection (1).pdf,Neither,None,None,None,None
-A_review_on_early_forest_fire_detection_using_IoT-enabled_WSN.pdf,Sensors,None,None,"signal processing, interoperability",None
+IoT_Sensor_and_Deep_Neural_Network_based_Wildfire_Prediction_System.pdf,SDE-only,None,machine learning model,intelligent,None
+The_analysis_of_the_recovery_of_forest_fire_based_on_NDVI_and_NPP.pdf,Neither,None,None,None,None
+Reliability_analysis_of_Wireless_Sensor_Networks_for_forest_fire_detection (1).pdf,Sensors,None,None,intelligent,None
+A_review_on_early_forest_fire_detection_using_IoT-enabled_WSN.pdf,Sensors,None,None,"signal processing, interoperability, smart",None
 Wireless_Sensor_Routing_Protocol_Research_Based_on_Forest_Fire_Protection (1).pdf,Neither,None,None,None,None
 Optimizing_Sensor_Node_Placement_for_Forest_Fire_Prevention_Using_Clustering_and_Regression.pdf,SDE-only,None,predictive model,sensor placement,None
-Integrated_Wireless_Sensor_Network_and_Machine_Learning_Algorithm_Based_Forest_Fire_Detection_System (1).pdf,SDE-only,None,machine learning model,data transmission,None
+Integrated_Wireless_Sensor_Network_and_Machine_Learning_Algorithm_Based_Forest_Fire_Detection_System (1).pdf,SDE-only,None,machine learning model,"data transmission, smart, intelligent",None
 Designing_Appropriate_Sensor_Values_for_Surface_Forest_Fire_Alarm_Systems_Using_IoT.pdf,Neither,None,None,None,None
-Forest_Fire_Detection_by_using_MESA2DA_Clustering_Protocol_based_on_Artificial_Intelligence_Techniques.pdf,Sensors,None,None,fusion,None
-A_wireless_sensor_network_for_early_forest_fire_detection_and_monitoring_as_a_decision_factor_in_the_context_of_a_complex_integrated_emergency_response_system.pdf,Sensors,None,None,"signal processing, data transmission",None
-Novel_Detection_of_Forest_Fire_using_Temperature_and_Carbon_Dioxide_Sensors_with_Improved_Accuracy_in_Comparison_between_two_Different_Zones.pdf,SDE-only,None,statistical analysis,error correction,None
-A_Method_for_Forest_Fire_Monitoring_Based_on_GA-BP.pdf,Sensors,None,None,fusion,None
-Experimental_Evaluation_of_Smart_Forest_Fire_Detection_Methodology_using_Internet_of_Things_and_Logical_Sensors.pdf,SDE-only,None,control system,signal processing,None
+Forest_Fire_Detection_by_using_MESA2DA_Clustering_Protocol_based_on_Artificial_Intelligence_Techniques.pdf,Sensors,None,None,"fusion, smart, intelligent",None
+A_wireless_sensor_network_for_early_forest_fire_detection_and_monitoring_as_a_decision_factor_in_the_context_of_a_complex_integrated_emergency_response_system.pdf,Sensors,None,None,"signal processing, data transmission, intelligent",None
+Novel_Detection_of_Forest_Fire_using_Temperature_and_Carbon_Dioxide_Sensors_with_Improved_Accuracy_in_Comparison_between_two_Different_Zones.pdf,SDE-only,None,statistical analysis,"error correction, smart, intelligent",None
+A_Method_for_Forest_Fire_Monitoring_Based_on_GA-BP.pdf,Sensors,None,None,"fusion, intelligent",None
+Experimental_Evaluation_of_Smart_Forest_Fire_Detection_Methodology_using_Internet_of_Things_and_Logical_Sensors.pdf,SDE-only,None,control system,"signal processing, smart, intelligent",None
 Experimental_Analysis_of_WSN_based_Solution_for_Early_Forest_Fire_Detection.pdf,Neither,None,None,None,None
 WF21066.pdf,SDE-only,None,data assimilation,None,None
 Modeling_and_Analysis_of_Wildfire_Detection_using_Wireless_Sensor_Network_with_Poisson_Deployment.pdf,SDE-only,None,hybrid model,None,None
 Study_of_routing_protocols_used_in_sensor_networks_for_forest_fire_detection (1).pdf,Sensors,None,None,interoperability,None
-Edge_Computing-Based_Wildfire_Detection_and_Optimization_Algorithm.pdf,Sensors,None,None,"fusion, data transmission",None
-1-s2.0-S1389128610000824-main.pdf,SDE-only,None,control system,None,None
-1921621.1921625.pdf,PDE-only,objective function,None,sensor placement,"DOI=10, X s = x s, X A =xA, averaging over all possible observations X A = xA the placed sensors can make, 4 = 2, t = θ p, X
+Edge_Computing-Based_Wildfire_Detection_and_Optimization_Algorithm.pdf,Sensors,None,None,"fusion, data transmission, intelligent",None
+1-s2.0-S1389128610000824-main.pdf,SDE-only,None,control system,intelligent,None
+1921621.1921625.pdf,PDE-only,objective function,None,"sensor placement, intelligent","DOI=10, X s = x s, X A =xA, averaging over all possible observations X A = xA the placed sensors can make, 4 = 2, t = θ p, X
 V
 =xV, X s = x s, X A = xA, A = μ s, A
 = σ s2, 0
@@ -954,7 +1007,7 @@ log 2
 F, i=1
 Similarly, requirethata =sanda, =t, Pr A= S, we subtract x = min, κ = 2 and κ, = 3, κ =3, there is a constant factor κ = 3"
 Forest_fire_monitoring_detection_and_decision_making_systems_by_wireless_sensor_network.pdf,Neither,None,None,None,None
-Policy_for_random_aerial_deployment_in_large_scale_Wireless_Sensor_Networks.pdf,Neither,None,None,None,None
-Developing_an_efficient_framework_for_real_time_monitoring_of_forest_fire_using_wireless_sensor_network.pdf,Sensors,None,None,"physical parameters, fusion",None
+Policy_for_random_aerial_deployment_in_large_scale_Wireless_Sensor_Networks.pdf,Sensors,None,None,intelligent,None
+Developing_an_efficient_framework_for_real_time_monitoring_of_forest_fire_using_wireless_sensor_network.pdf,Sensors,None,None,"physical parameters, fusion, smart",None
 Forest_Fire_Detection_using_LoRa_Wireless_Mesh_Topology.pdf,Neither,None,None,None,None
 Reconfigurable_wireless_sensor_network_node_based_on_Nios_core.pdf,Sensors,None,None,"reconfigurable, energy efficiency",None
