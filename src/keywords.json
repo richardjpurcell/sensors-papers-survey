@@ -72,25 +72,16 @@
         "machine learning models for fire detection", "edge computing solutions"
     ],
     "sensor_categories": [
-        "sensor equations", "sensor definitions", "data input", 
-        "physical parameters", "sensor accuracy", "sensor placement",
-        "calibration techniques", "signal processing", "reconfigurable", 
-        "fusion", "software-defined", "sensor robustness", 
-        "environmental adaptation", "sensor longevity", "energy efficiency",
-        "multi-modal sensors", "thermal sensors", "ultrasonic sensors",
-        "vibration sensors", "remote sensing integration",
-        "data transmission", "sensor miniaturization", 
-        "spatial resolution", "temporal resolution", 
-        "interoperability", "error correction",
-        "adaptive thresholding", "event-driven sensing",
-        "distributed sensing", "dynamic sensor allocation",
-        "real-time sensing", "sensor redundancy", 
-        "networked sensors", "fault detection in sensors",
-        "sensor interoperability", "sensing accuracy under noise",
-        "self-adaptive sensors", "modular sensors", "programmable sensors",
-        "customizable networks", "fusion-ready sensors", 
-        "low-power configurable sensors", "energy harvesting sensors",
-        "self-healing networks", "on-demand sensing", "adaptive protocols",
-        "smart", "intelligent"
+        "physical parameters", "sensor accuracy", "sensor placement", 
+        "signal processing", "reconfigurable", "fusion", 
+        "software-defined", "energy efficiency", "thermal sensors", 
+        "ultrasonic sensors", "vibration sensors", "data transmission", 
+        "spatial resolution", "temporal resolution", "interoperability", 
+        "error correction", "smart sensors", "intelligent sensors", 
+        "control systems", "risk assessment", "optimization techniques", 
+        "statistical analysis", "machine learning models", 
+        "simulation models", "adaptive algorithms"
     ]
+
+
 }

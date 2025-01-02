@@ -1,87 +1,49 @@
 Paper Categorization Summary:
-PDE-only: 16
-SDE-only: 78
-Both PDE and SDE: 7
-Neither: 54
-Sensors: 181
+PDE-only: 28
+SDE-only: 119
+Both PDE and SDE: 11
+Neither: 124
+Sensors: 214
+Irrelevant: 16
 
 PDE Subcategory Counts:
-problem formulation: 5
-physical phenomena: 4
-objective function: 12
-boundary conditions: 2
-initial conditions: 1
-constraint definition: 0
-risk metric: 0
-data relationships: 0
-environmental interactions: 0
-uncertainty representation: 0
-temporal dynamics: 3
-spatial modeling: 0
+problem formulation: 9
+physical phenomena: 5
+objective function: 22
+Other: 8
 
 SDE Subcategory Counts:
-method implementation: 0
-predictive model: 4
-optimization technique: 5
-validation framework: 0
-simulation model: 9
-statistical analysis: 12
-machine learning model: 14
-data assimilation: 4
-resource allocation model: 0
-control system: 28
-cost-effectiveness analysis: 0
-risk assessment: 14
-decision support system: 7
-hybrid model: 3
-adaptive algorithm: 1
+Other: 10
+predictive model: 7
+optimization technique: 10
+simulation model: 17
+statistical analysis: 16
+machine learning model: 16
+control system: 45
+risk assessment: 25
+decision support system: 13
 
 Sensor Subcategory Counts:
-sensor equations: 0
-sensor definitions: 0
-data input: 0
-physical parameters: 5
-sensor accuracy: 5
-sensor placement: 13
-calibration techniques: 0
-signal processing: 45
-reconfigurable: 11
-fusion: 72
+physical parameters: 10
+sensor accuracy: 6
+sensor placement: 16
+signal processing: 71
+reconfigurable: 16
+fusion: 108
 software-defined: 7
-sensor robustness: 0
-environmental adaptation: 0
-sensor longevity: 0
-energy efficiency: 34
-multi-modal sensors: 0
-thermal sensors: 1
-ultrasonic sensors: 2
-vibration sensors: 2
-remote sensing integration: 0
-data transmission: 90
-sensor miniaturization: 0
-spatial resolution: 18
-temporal resolution: 8
-interoperability: 9
-error correction: 7
-adaptive thresholding: 1
-event-driven sensing: 0
-distributed sensing: 2
-dynamic sensor allocation: 0
-real-time sensing: 1
-sensor redundancy: 0
-networked sensors: 5
-fault detection in sensors: 0
-sensor interoperability: 0
-sensing accuracy under noise: 0
-self-adaptive sensors: 0
-modular sensors: 0
-programmable sensors: 0
-customizable networks: 0
-fusion-ready sensors: 0
-low-power configurable sensors: 0
-energy harvesting sensors: 0
-self-healing networks: 0
-on-demand sensing: 0
-adaptive protocols: 0
-smart: 132
-intelligent: 122
+energy efficiency: 48
+Other: 11
+ultrasonic sensors: 10
+data transmission: 119
+spatial resolution: 30
+temporal resolution: 12
+interoperability: 13
+error correction: 8
+smart sensors: 11
+intelligent sensors: 7
+control systems: 19
+risk assessment: 25
+optimization techniques: 16
+statistical analysis: 16
+machine learning models: 22
+simulation models: 12
